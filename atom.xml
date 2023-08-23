@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>森的神秘空间</title>
+  
+  <subtitle>“科技改变生活”</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-08-22T17:08:06.824Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>YHSome</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>西柚朗读者（西柚英语辅助）</title>
+    <link href="http://example.com/2023/08/23/xiyouspeaker/"/>
+    <id>http://example.com/2023/08/23/xiyouspeaker/</id>
+    <published>2023-08-22T17:07:13.000Z</published>
+    <updated>2023-08-22T17:08:06.824Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;** 此文章同步保存在以下网站 **&lt;br&gt;&lt;a href=&quot;https://yhsome.github.io/2023/08/23/xiyouspeaker&quot;&gt;森的神秘空间&lt;/a&gt;&lt;br&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="我的项目" scheme="http://example.com/tags/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>西柚选择者（西柚英语辅助）</title>
+    <link href="http://example.com/2023/08/19/xiyouchooser/"/>
+    <id>http://example.com/2023/08/19/xiyouchooser/</id>
+    <published>2023-08-19T15:58:27.000Z</published>
+    <updated>2023-08-22T17:06:43.407Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;** 此文章同步保存在以下网站 **&lt;br&gt;&lt;a href=&quot;https://yhsome.github.io/2023/08/19/xiyouchooser&quot;&gt;森的神秘空间&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://github.com/YHSome/xiyouchooser/&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;功能简介&quot;&gt;&lt;a href=&quot;#功能简介&quot; class=&quot;headerlink&quot; title=&quot;功能简介&quot;&gt;&lt;/a&gt;功能简介&lt;/h1&gt;&lt;p&gt;该脚本可以帮助你完成 &lt;a href=&quot;https://student.xiyouyingyu.com/&quot;&gt;西柚英语&lt;/a&gt; 中烦人的看词选义和看义选词。&lt;br&gt;&lt;a href=&quot;https://github.com/YHSome/xiyouhelper/&quot;&gt;github项目地址&amp;#x2F;下载地址&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="我的项目" scheme="http://example.com/tags/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随笔-番中817事件吃瓜及一些我个人的看法</title>
+    <link href="http://example.com/2023/08/18/%E9%9A%8F%E7%AC%94-%E7%95%AA%E4%B8%AD817%E4%BA%8B%E4%BB%B6%E5%90%83%E7%93%9C%E5%8F%8A%E4%B8%80%E4%BA%9B%E6%88%91%E4%B8%AA%E4%BA%BA%E7%9A%84%E7%9C%8B%E6%B3%95/"/>
+    <id>http://example.com/2023/08/18/%E9%9A%8F%E7%AC%94-%E7%95%AA%E4%B8%AD817%E4%BA%8B%E4%BB%B6%E5%90%83%E7%93%9C%E5%8F%8A%E4%B8%80%E4%BA%9B%E6%88%91%E4%B8%AA%E4%BA%BA%E7%9A%84%E7%9C%8B%E6%B3%95/</id>
+    <published>2023-08-17T17:24:03.000Z</published>
+    <updated>2023-08-17T18:20:07.759Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;总述&quot;&gt;&lt;a href=&quot;#总述&quot; class=&quot;headerlink&quot; title=&quot;总述&quot;&gt;&lt;/a&gt;总述&lt;/h1&gt;&lt;p&gt;17号晚上自修结束后，番中发生了一些影响不好的事件。&lt;br&gt;&lt;strong&gt;以上（以下）所有内容均来自番中校园墙整理所得，其内容源于学生自行上传，真实性有待考究！&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;事件始末&quot;&gt;&lt;a href=&quot;#事件始末&quot; class=&quot;headerlink&quot; title=&quot;事件始末&quot;&gt;&lt;/a&gt;事件始末&lt;/h1&gt;</summary>
+    
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>chatgpt共享账号</title>
+    <link href="http://example.com/2023/08/17/chatgpt%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B7/"/>
+    <id>http://example.com/2023/08/17/chatgpt%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B7/</id>
+    <published>2023-08-16T16:54:25.000Z</published>
+    <updated>2023-08-17T03:59:18.014Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;如题，这个账号只有3.5的版本可用，自备魔法打开&lt;a href=&quot;chat.openai.com&quot;&gt;chatgpt官网&lt;/a&gt;使用。&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>随笔-忖度</title>
+    <link href="http://example.com/2023/08/14/%E9%9A%8F%E7%AC%94-%E5%BF%96%E5%BA%A6/"/>
+    <id>http://example.com/2023/08/14/%E9%9A%8F%E7%AC%94-%E5%BF%96%E5%BA%A6/</id>
+    <published>2023-08-13T18:25:00.000Z</published>
+    <updated>2023-08-13T18:48:57.740Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;前言：前两天被迫用百度，感叹一下百度搜索真是一坨肥沃的。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随笔-论网络诈骗</title>
+    <link href="http://example.com/2023/08/14/%E9%9A%8F%E7%AC%94-%E8%AE%BA%E7%BD%91%E7%BB%9C%E8%AF%88%E9%AA%97/"/>
+    <id>http://example.com/2023/08/14/%E9%9A%8F%E7%AC%94-%E8%AE%BA%E7%BD%91%E7%BB%9C%E8%AF%88%E9%AA%97/</id>
+    <published>2023-08-13T16:56:40.000Z</published>
+    <updated>2023-08-13T18:23:14.037Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;今天下午，我利用匿名邮箱向几个好友发送了一份伪装‘学考不通过’和‘学考作弊清除成绩’的邮件，并附上了钓鱼链接。星宇因此上钩&lt;/p&gt;
+&lt;h1 id=&quot;远在天边，近在眼前&quot;&gt;&lt;a href=&quot;#远在天边，近在眼前&quot; class=&quot;headerlink&quot; title=&quot;远在天边，近在眼前&quot;&gt;&lt;/a&gt;远在天边，近在眼前&lt;/h1&gt;</summary>
+    
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一些钢琴谱下载</title>
+    <link href="http://example.com/2023/08/12/%E4%B8%80%E4%BA%9B%E9%92%A2%E7%90%B4%E8%B0%B1%E4%B8%8B%E8%BD%BD/"/>
+    <id>http://example.com/2023/08/12/%E4%B8%80%E4%BA%9B%E9%92%A2%E7%90%B4%E8%B0%B1%E4%B8%8B%E8%BD%BD/</id>
+    <published>2023-08-12T11:32:18.000Z</published>
+    <updated>2023-08-13T18:49:48.529Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;b站收集的一些钢琴谱，主要都是著名电子音乐改编，有需要可以自行下载。&lt;br&gt;&lt;a href=&quot;../image/2023-8-06/altale.pdf&quot;&gt;altale钢琴谱&lt;/a&gt;&lt;br&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>随笔-一些给新高一的资料</title>
+    <link href="http://example.com/2023/08/10/%E9%9A%8F%E7%AC%94-%E4%B8%80%E4%BA%9B%E7%BB%99%E6%96%B0%E9%AB%98%E4%B8%80%E7%9A%84%E8%B5%84%E6%96%99%E5%92%8C%E5%BB%BA%E8%AE%AE/"/>
+    <id>http://example.com/2023/08/10/%E9%9A%8F%E7%AC%94-%E4%B8%80%E4%BA%9B%E7%BB%99%E6%96%B0%E9%AB%98%E4%B8%80%E7%9A%84%E8%B5%84%E6%96%99%E5%92%8C%E5%BB%BA%E8%AE%AE/</id>
+    <published>2023-08-09T18:22:09.000Z</published>
+    <updated>2023-08-09T18:32:39.719Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;送给新高一的好东西，如果你是番中的那么这些网页将很适合你。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随笔-平价零食超市真的平价吗</title>
+    <link href="http://example.com/2023/08/10/%E9%9A%8F%E7%AC%94-%E5%B9%B3%E4%BB%B7%E9%9B%B6%E9%A3%9F%E8%B6%85%E5%B8%82%E7%9C%9F%E7%9A%84%E5%B9%B3%E4%BB%B7%E5%90%97/"/>
+    <id>http://example.com/2023/08/10/%E9%9A%8F%E7%AC%94-%E5%B9%B3%E4%BB%B7%E9%9B%B6%E9%A3%9F%E8%B6%85%E5%B8%82%E7%9C%9F%E7%9A%84%E5%B9%B3%E4%BB%B7%E5%90%97/</id>
+    <published>2023-08-09T17:25:38.000Z</published>
+    <updated>2023-08-09T18:19:48.154Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h2&gt;&lt;p&gt;今天被我妈强行拉去‘赵一鸣’零食店买零食了。观察店面可知，其装修风格极具现代化，大幅度使用led灯，似乎与其‘平价’产生了反差。这不免令我产生疑惑：其所标榜的‘平价’是真真切切的还是换种套路割韭菜呢？&lt;/p&gt;
+&lt;h2 id=&quot;1-为何火遍大江南北？&quot;&gt;&lt;a href=&quot;#1-为何火遍大江南北？&quot; class=&quot;headerlink&quot; title=&quot;1.为何火遍大江南北？&quot;&gt;&lt;/a&gt;1.为何火遍大江南北？&lt;/h2&gt;</summary>
+    
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bandizip专业版解锁及去除更新</title>
+    <link href="http://example.com/2023/08/08/bandizip/"/>
+    <id>http://example.com/2023/08/08/bandizip/</id>
+    <published>2023-08-08T08:28:26.000Z</published>
+    <updated>2023-08-08T09:25:14.641Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;对于电脑使用者来说，压缩&amp;#x2F;解压缩软件是必不可少的，今天给大家推荐的Bandizip是一款免费优秀的文件压缩&amp;#x2F;解压缩软件，界面简洁，功能明了，免费纯净无广告。它支持多国语言，解压后不会出现乱码，Bandizip拥有非常快速的压缩和解压缩的算法，适用于多核心压缩、快速拖拽、高速压缩等功能。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="实用软件" scheme="http://example.com/tags/%E5%AE%9E%E7%94%A8%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>altale五线谱</title>
+    <link href="http://example.com/2023/08/06/altale/"/>
+    <id>http://example.com/2023/08/06/altale/</id>
+    <published>2023-08-06T13:42:33.000Z</published>
+    <updated>2023-08-08T09:27:46.581Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;作者不是我，仅搬运&lt;br&gt;下载链接：&lt;a href=&quot;../image/2023-8-06/altale.pdf&quot;&gt;点击下载&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>喜德盛rc200改装实例</title>
+    <link href="http://example.com/2023/08/06/rc200tools/"/>
+    <id>http://example.com/2023/08/06/rc200tools/</id>
+    <published>2023-08-06T11:59:34.000Z</published>
+    <updated>2023-08-08T09:27:57.080Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/../image/2023-8-06/1.jpg&quot;&gt;&lt;br&gt;RC200，作为一辆入门级的公路车，性价比是1000~2000中比较高的。我骑了半年，接下来按重要性高低介绍一下rc200这辆车有哪些便宜的配件能够提高骑行体验&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>录屏软件bandicam下载</title>
+    <link href="http://example.com/2023/07/25/bandicam/"/>
+    <id>http://example.com/2023/07/25/bandicam/</id>
+    <published>2023-07-25T14:58:28.000Z</published>
+    <updated>2023-08-08T09:36:34.451Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;下载地址：&lt;a href=&quot;../image/2023-7-25/BandiCam.zip&quot;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bandicam（班迪录屏）一款简单好用的电脑屏幕录制软件，录屏幕，录游戏，录视频的功能强大的录屏工具，比起其他软件其性能更加卓越。</summary>
+        
+      
+    
+    
+    
+    
+    <category term="实用软件" scheme="http://example.com/tags/%E5%AE%9E%E7%94%A8%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>猫猫桌宠BongoCat下载</title>
+    <link href="http://example.com/2023/07/09/BongoCat/"/>
+    <id>http://example.com/2023/07/09/BongoCat/</id>
+    <published>2023-07-09T12:49:03.000Z</published>
+    <updated>2023-08-08T08:59:59.975Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;简述&quot;&gt;&lt;a href=&quot;#简述&quot; class=&quot;headerlink&quot; title=&quot;简述&quot;&gt;&lt;/a&gt;简述&lt;/h3&gt;&lt;p&gt;B站的up用爱发电做的，可以实时反馈鼠标及键盘的操作&lt;br&gt;&lt;del&gt;猫猫好可爱&lt;/del&gt;&lt;/p&gt;
+&lt;h3 id=&quot;安装&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="实用软件" scheme="http://example.com/tags/%E5%AE%9E%E7%94%A8%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>比特彗星解锁版下载</title>
+    <link href="http://example.com/2023/07/09/bitcoment-pro/"/>
+    <id>http://example.com/2023/07/09/bitcoment-pro/</id>
+    <published>2023-07-09T12:48:30.000Z</published>
+    <updated>2023-08-08T09:28:18.783Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;比特彗星就是下载种子文件的软件，懂得都懂。&lt;br&gt;蓝奏盘下载链接&lt;br&gt;&lt;a href=&quot;https://wwqk.lanzoum.com/ipKp011s9d6j&quot;&gt;点击跳转&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="实用软件" scheme="http://example.com/tags/%E5%AE%9E%E7%94%A8%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的部落冲突国际服重开日记（随缘更新）</title>
+    <link href="http://example.com/2023/06/23/coc/"/>
+    <id>http://example.com/2023/06/23/coc/</id>
+    <published>2023-06-23T15:51:49.000Z</published>
+    <updated>2023-08-16T16:20:01.963Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;看到皇室战争国服最近(23年6月)的骚操作，已经对部落冲突的国服感到担忧了。因此，我先放下了国服部落冲突，在国际服开了个新号，&lt;del&gt;以此来回忆我的青春.&lt;/del&gt;&lt;br&gt;&lt;em&gt;ps：国际服的账号注册并不困难，需要的可以在gamestoday下载。&lt;/em&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="coc" scheme="http://example.com/tags/coc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>研究性学习相关内容</title>
+    <link href="http://example.com/2023/06/22/RsearchLearning/"/>
+    <id>http://example.com/2023/06/22/RsearchLearning/</id>
+    <published>2023-06-22T11:18:07.000Z</published>
+    <updated>2023-08-08T09:31:04.393Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;作为组员，您需要完成的内容&quot;&gt;&lt;a href=&quot;#作为组员，您需要完成的内容&quot; class=&quot;headerlink&quot; title=&quot;作为组员，您需要完成的内容&quot;&gt;&lt;/a&gt;作为组员，您需要完成的内容&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;请按照模板的格式进行填写，并在填写完毕后发送给组长。&lt;br&gt;&lt;a href=&quot;http://yhsome.github.io/image/2023-6-22/example.docx&quot;&gt;下载组员模板&lt;/a&gt;&lt;br&gt;此外，如果您想节约时间，亦可以使用&lt;a href=&quot;&quot;&gt;人工智能&lt;/a&gt;以帮助您完成正文&lt;br&gt;您可以使用以下提示词(xxxxx换成你的主题，其余不要动)&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;以以下主题写一篇八百字文章：xxxxx：（此处写你的副标题）&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;等待组长回传汇总文件，并上传到&lt;a href=&quot;https://gl.gdedu.gov.cn/gdeducms&quot;&gt;综评网&lt;/a&gt;上&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;作为组长，您需要完成的内容&quot;&gt;&lt;a href=&quot;#作为组长，您需要完成的内容&quot; class=&quot;headerlink&quot; title=&quot;作为组长，您需要完成的内容&quot;&gt;&lt;/a&gt;作为组长，您需要完成的内容&lt;/h3&gt;</summary>
+    
+    
+    
+    
+    <category term="高一救急" scheme="http://example.com/tags/%E9%AB%98%E4%B8%80%E6%95%91%E6%80%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>EaseUS——免费的PDF编辑工具（pro解锁）</title>
+    <link href="http://example.com/2023/06/22/EaseUS-PDF-Editor/"/>
+    <id>http://example.com/2023/06/22/EaseUS-PDF-Editor/</id>
+    <published>2023-06-22T08:20:18.000Z</published>
+    <updated>2023-08-08T09:29:29.938Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#前言#&lt;br&gt;WPS Office的pdf编辑功能过于坑爹，下面于是我找到了一款更好的pdf编辑器，除了只有繁体中文外几乎没有缺点&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="实用软件" scheme="http://example.com/tags/%E5%AE%9E%E7%94%A8%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>综合实践课结题报告</title>
+    <link href="http://example.com/2023/06/03/FinalReport/"/>
+    <id>http://example.com/2023/06/03/FinalReport/</id>
+    <published>2023-06-02T19:06:39.000Z</published>
+    <updated>2023-08-08T09:30:05.520Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;以下内容仅供展示，docx文件转换为markdown格式可能回出现一些格式问题。因此文中的表格会有些异常&lt;br&gt;&lt;a href=&quot;https://yhsome.github.io/image/2023-6-03/18-4-jietibaogao2305.docx&quot;&gt;点此下载docx文件&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="高一救急" scheme="http://example.com/tags/%E9%AB%98%E4%B8%80%E6%95%91%E6%80%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>红楼梦思维导图21-70回</title>
+    <link href="http://example.com/2023/05/20/%E7%BA%A2%E6%A5%BC%E6%A2%A6%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE21-70%E5%9B%9E/"/>
+    <id>http://example.com/2023/05/20/%E7%BA%A2%E6%A5%BC%E6%A2%A6%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE21-70%E5%9B%9E/</id>
+    <published>2023-05-20T10:43:40.000Z</published>
+    <updated>2023-08-08T09:31:31.175Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;-[点此下载所有思维导图（压缩文件）](&lt;a href=&quot;https://yhsome.github.io/image/2023-5-28/DreamOfRedMansion.zip&quot;&gt;https://YHSome.github.io/image/2023-5-28/DreamOfRedMansion.zip&lt;/a&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;此处仅有21-70回思维导图，若想查看1-20回，请查看我的&lt;a href=&quot;http://yhsome.github.io/&quot;&gt;个人博客&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;您可以使用浏览器的搜索页面文本功能（ctrl+f）功能快速查找对应章节</summary>
+    
+    
+    
+    
+    <category term="红楼梦" scheme="http://example.com/tags/%E7%BA%A2%E6%A5%BC%E6%A2%A6/"/>
+    
+  </entry>
+  
+</feed>
