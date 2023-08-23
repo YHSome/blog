@@ -350,11 +350,16 @@
       </tags>
   </entry>
   <entry>
-    <title>altale五线谱</title>
-    <url>/2023/08/06/altale/</url>
-    <content><![CDATA[<p>作者不是我，仅搬运<br>下载链接：<a href="../image/2023-8-06/altale.pdf">点击下载</a></p>
-<span id="more"></span>
-<p><img src="/../image/2023-8-06/pg1.jpg"><br><img src="/../image/2023-8-06/pg2.jpg"><br><img src="/../image/2023-8-06/pg3.jpg"><br><img src="/../image/2023-8-06/pg4.jpg"><br><img src="/../image/2023-8-06/pg5.jpg"><br><img src="/../image/2023-8-06/pg6.jpg"></p>
+    <title>关于六月七日回桥兴中学的相关信息</title>
+    <url>/2023/06/03/Shcedule/</url>
+    <content><![CDATA[<p>截至2023&#x2F;6&#x2F;6 21：36 共计10人参与：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黄茂轩，霍泽明，何城熙，张逸，林浩天，陈曦洋，杨浩森，王绮璇，崔雅晞，梁海晴</span><br></pre></td></tr></table></figure>
+
+<p><img src="/../image/2023-6-06/1.jpg" alt="早上路拍桥兴"></p>
+<p>时间：在2023&#x2F;6&#x2F;07 16：30于桥兴校门集合。<br>其中 <em><strong>杨浩森，霍泽明，王绮璇，陈曦洋</strong></em> 四人将于16:15番禺职中放学后步行至桥兴， <em><strong>黄茂轩</strong></em> 先于16:00进入桥兴。</p>
+<p>离校时间待定。</p>
+<p>晚饭暂定有 <em><strong>杨浩森，霍泽明，张逸，何城熙，林浩天，黄茂轩</strong></em> 共六人。</p>
+<p>有更多需要补充，请找我（杨浩森）或张逸。</p>
 ]]></content>
   </entry>
   <entry>
@@ -369,6 +374,14 @@
       <tags>
         <tag>实用软件</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>altale五线谱</title>
+    <url>/2023/08/06/altale/</url>
+    <content><![CDATA[<p>作者不是我，仅搬运<br>下载链接：<a href="../image/2023-8-06/altale.pdf">点击下载</a></p>
+<span id="more"></span>
+<p><img src="/../image/2023-8-06/pg1.jpg"><br><img src="/../image/2023-8-06/pg2.jpg"><br><img src="/../image/2023-8-06/pg3.jpg"><br><img src="/../image/2023-8-06/pg4.jpg"><br><img src="/../image/2023-8-06/pg5.jpg"><br><img src="/../image/2023-8-06/pg6.jpg"></p>
+]]></content>
   </entry>
   <entry>
     <title>Bandizip专业版解锁及去除更新</title>
@@ -493,6 +506,7 @@
     <url>/2023/08/23/xiyouspeaker/</url>
     <content><![CDATA[<p>** 此文章同步保存在以下网站 **<br><a href="https://yhsome.github.io/2023/08/23/xiyouspeaker">森的神秘空间</a><br><a href="https://github.com/YHSome/xiyouspeaker/">github</a></p>
 <h1 id="功能简介"><a href="#功能简介" class="headerlink" title="功能简介"></a>功能简介</h1><p>该脚本可以帮助你完成 <a href="https://student.xiyouyingyu.com/">西柚英语</a> 中烦人的单词朗读。</p>
+<span id="more"></span>
 <h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><h2 id="第一步：安装python以及相应库"><a href="#第一步：安装python以及相应库" class="headerlink" title="第一步：安装python以及相应库"></a>第一步：安装python以及相应库</h2><p>你需要安装的python库有</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sounddevice</span><br><span class="line">soundfile</span><br><span class="line">pyautogui</span><br></pre></td></tr></table></figure>
 <h2 id="第二部，完成相应设置"><a href="#第二部，完成相应设置" class="headerlink" title="第二部，完成相应设置"></a>第二部，完成相应设置</h2><h3 id="设置默认录制设备（十分重要！）"><a href="#设置默认录制设备（十分重要！）" class="headerlink" title="设置默认录制设备（十分重要！）"></a>设置默认录制设备（十分重要！）</h3><p><strong>使用前请将系统默认录制设备改成“立体声混音”，否则无法录音</strong></p>
