@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-08-23T06:14:47.804Z</updated>
+  <updated>2023-08-28T09:54:08.574Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PixelQX：像素桥兴计划</title>
+    <link href="http://example.com/2023/08/28/pixelqx/"/>
+    <id>http://example.com/2023/08/28/pixelqx/</id>
+    <published>2023-08-28T09:24:59.000Z</published>
+    <updated>2023-08-28T09:54:08.574Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;前段时间和朋友吹水时，偶尔提到了桥兴中学的事儿，突然灵光一闪：万一我们真的能在我的世界里面还原桥兴中学呢。心动不如行动，于是就有了这个计划。并且，&lt;strong&gt;我为此还开设了一个服务器，大家也可以随时进入参观玩耍。&lt;/strong&gt;&lt;br&gt;&lt;img src=&quot;/../image/2023-6-06/1.jpg&quot; alt=&quot;2023年6月6日早上路拍桥兴&quot;&gt;&lt;br&gt;实拍镇帖。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="PixelQX" scheme="http://example.com/tags/PixelQX/"/>
+    
+  </entry>
   
   <entry>
     <title>西柚朗读者（西柚英语辅助）</title>
@@ -366,23 +383,6 @@
     
     
     <category term="红楼梦" scheme="http://example.com/tags/%E7%BA%A2%E6%A5%BC%E6%A2%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>美术发言-欧洲浪漫主义</title>
-    <link href="http://example.com/2023/05/17/%E5%93%97%E5%93%A9%E5%93%97%E5%93%A9-%E6%AC%A7%E6%B4%B2%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89/"/>
-    <id>http://example.com/2023/05/17/%E5%93%97%E5%93%A9%E5%93%97%E5%93%A9-%E6%AC%A7%E6%B4%B2%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89/</id>
-    <published>2023-05-17T15:57:31.000Z</published>
-    <updated>2023-08-08T09:32:23.614Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;浪漫主义是兴起于18世纪后期，然后持续发展到19世纪中期的艺术运动，那么浪漫主义跟我们平时所讲的浪漫有什么关系么？ 今天，当我们提到浪漫这个词时，会很容易和热恋中的情侣产生关联，或者是在结婚纪念日当天，一个丈夫下班后，买了一束玫瑰花送给他的妻子……这些都是我们对于浪漫这个词的第一印象。而我们所说的浪漫主义跟浪漫有些不一样，浪漫是指虚构、传奇，而浪漫主义则是来源于中世纪的“传奇”一词，最早使用是在18世纪的晚期。当时人们普遍对古代的冒险离奇事件感兴趣，后来，人们就把那些同传奇故事、离奇遭遇、想象色彩相关联的事统统成为浪漫主义。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="高一救急" scheme="http://example.com/tags/%E9%AB%98%E4%B8%80%E6%95%91%E6%80%A5/"/>
     
   </entry>
   

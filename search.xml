@@ -1,35 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>EaseUS——免费的PDF编辑工具（pro解锁）</title>
-    <url>/2023/06/22/EaseUS-PDF-Editor/</url>
-    <content><![CDATA[<p>#前言#<br>WPS Office的pdf编辑功能过于坑爹，下面于是我找到了一款更好的pdf编辑器，除了只有繁体中文外几乎没有缺点</p>
-<span id="more"></span>
-<p>相较于WPS Office，EaseUS PDF 在以下几个方面具有优势：</p>
-<ol>
-<li><p><strong>专注于PDF编辑</strong>：EaseUS PDF 是一款专注于PDF文件处理和编辑的软件，而WPS Office是一套综合办公套件，包括文档、表格和演示等多种功能。因此，EaseUS PDF在PDF编辑方面提供了更专业和专注的工具和功能。</p>
-</li>
-<li><p><strong>更强大的PDF编辑功能</strong>：EaseUS PDF 提供了全面而强大的PDF编辑功能，如直接修改PDF文件内容、修复损坏的PDF文件、添加注释和批注、保护和加密文件等。相比之下，WPS Office的PDF编辑功能相对有限，主要注重于文档的查看和基础编辑。</p>
-</li>
-<li><p><strong>免费使用的PDF编辑</strong>：EaseUS PDF 提供免费使用的完整PDF编辑功能，无需支付额外费用。而WPS Office的PDF编辑功能需要用户购买付费版本才能享受完整的编辑功能。这使得EaseUS PDF成为一个更加经济实惠和优惠的选择，特别是对于那些不愿意或不需要额外花费金钱购买软件的用户来说。</p>
-</li>
-<li><p><strong>直观友好的用户界面</strong>：EaseUS PDF 设计了一个直观友好的用户界面，使得用户能够轻松上手并快速完成操作。相比之下，WPS Office在整体界面和操作上更加繁琐复杂，需要一定的时间来适应和掌握。</p>
-</li>
-</ol>
-<p>#安装说明（含解锁pro版）</p>
-<ol>
-<li><strong>下载文件并解压</strong><br> <a href="http://yhsome.github.io/image/2023-6-22/EaseUS.PDF.rar">下载链接</a><br> 解压后你会看到一个这样的文件<br> <img src="/../image/2023-6-22/1.PNG"></li>
-<li><strong>打开Setup.exe进行安装</strong><br> 安装时记得选繁体中文<br> <img src="/../image/2023-6-22/2.PNG"></li>
-<li><strong>打开安装文件夹</strong><br> 这里有一个简便的方法，右键桌面上的快捷方式即可打开文件目录<br> <img src="/../image/2023-6-22/3.PNG"><br> 如果你是无脑右键安装，亦可以打开以下路径<br> <code>C:\Program Files (x86)\EaseUS\EaseUS PDF Editor\EaseUS PDF Editor.exe</code></li>
-<li><strong>将下载解压目录中的“fix”文件夹中的全部文件复制到安装文件夹中</strong><br> <img src="/../image/2023-6-22/4.PNG"><br> 记得选择替换目标中的文件<br> <img src="/../image/2023-6-22/5.PNG"><br> 如果出现访问被拒，请以管理员身份运行<br> <img src="/../image/2023-6-22/6.PNG"></li>
-<li><strong>安装完毕，请愉快使用</strong></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>实用软件</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>猫猫桌宠BongoCat下载</title>
     <url>/2023/07/09/BongoCat/</url>
     <content><![CDATA[<h3 id="简述"><a href="#简述" class="headerlink" title="简述"></a>简述</h3><p>B站的up用爱发电做的，可以实时反馈鼠标及键盘的操作<br><del>猫猫好可爱</del></p>
@@ -37,73 +8,6 @@
 ]]></content>
       <tags>
         <tag>实用软件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>E听说辅助工具及使用方法</title>
-    <url>/2023/04/21/E%E5%90%AC%E8%AF%B4%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</url>
-    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><ol>
-<li>呃啊…距离上次用E听说做英语都快是一年前的事情了，现在才有机会以网页的形式呈现教程，如果当年有这么干的想法的话，这玩意估计就以及传遍全年级了。</li>
-<li>本软件于2023&#x2F;4&#x2F;22 0:17:42测试可用。</li>
-<li>注意，本软件（指E听说极速版，下同）仅限于安卓或兼容安卓的设备使用，<strong>苹果系统不可用</strong>。<span id="more"></span></li>
-</ol>
-<hr>
-<h1 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h1><p>《E听说极速版》是一款十分强大的辅助工具，它不仅<strong>能够帮助您获取最新的听说答案</strong>，还能够让您在做限时练习时能够<strong>实时看到自己的得分情况</strong>。这是一款经过一年完善及发展的安卓软件，已稳定运行一年半。拥有独一无二的功能及稳定性。</p>
-<hr>
-<h1 id="正文：使用方式"><a href="#正文：使用方式" class="headerlink" title="正文：使用方式"></a>正文：使用方式</h1><h2 id="安装至您的安卓（或鸿蒙）系统的设备中"><a href="#安装至您的安卓（或鸿蒙）系统的设备中" class="headerlink" title="安装至您的安卓（或鸿蒙）系统的设备中"></a>安装至您的安卓（或鸿蒙）系统的设备中</h2><ol>
-<li>方式一：<a href="https://wwqk.lanzoum.com/b030rhwni">点击此打开下载链接</a> 文件密码:0000</li>
-<li>方式二：扫描二维码下载(密码0000) <blockquote>
-<p><img src="/../image/2023-4-22/0.png" alt="二维码"></p>
-</blockquote>
-</li>
-</ol>
-<h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><ol>
-<li>获取答案之前，您需要先将e听说的缓存清空，这里提供了两种方法<ol>
-<li>使用本软件自带的清除缓存功能（位于发现-清除缓存）</li>
-<li>使用E听说自带的清除缓存功能（位于我-清除缓存），如图：<blockquote>
-<p><img src="/../image/2023-4-22/1.png"></p>
-</blockquote>
-</li>
-</ol>
-</li>
-<li>点击打开你需要查看的作业（模仿朗读，趣味配音无答案）这里以下图为例： <blockquote>
-<p><img src="/../image/2023-4-22/2.png"> </p>
-</blockquote>
-</li>
-<li><strong>请确保进入如下界面再继续操作</strong>： <blockquote>
-<p><img src="/../image/2023-4-22/3.png"> </p>
-</blockquote>
-</li>
-<li>直接回到桌面，打开本软件，点击“一键搜索答案” 按钮（不同版本间可能存在差异）<blockquote>
-<p><img src="/../image/2023-4-22/4.png"> </p>
-</blockquote>
-</li>
-<li>此时关键词已经出现，组句回答即可 <blockquote>
-<p><img src="/../image/2023-4-22/5.png"> </p>
-</blockquote>
-</li>
-<li>也可以使用悬浮窗或分屏便于观看<blockquote>
-<p><img src="/../image/2023-4-22/6.png"></p>
-</blockquote>
-</li>
-</ol>
-<h2 id="设置界面介绍"><a href="#设置界面介绍" class="headerlink" title="设置界面介绍"></a>设置界面介绍</h2><ul>
-<li>文本颜色：点击“一键搜索答案”后文本的字体颜色及背景颜色</li>
-<li>显示实时分数：当您再做题时，本软件将检测您实时的分数并<strong>通过消息栏提醒您</strong>，无需在您完成后才能看到分数。</li>
-<li>限制筛选数量：<strong>（不建议打开）</strong>防止出现过多无效提示</li>
-<li>点击“复制开发者QQ号”后，将会启用开发者设置。但是<strong>如果一切正常，并不推荐修改任何关于开发者设置的内容</strong></li>
-</ul>
-<h2 id="常见问题解答"><a href="#常见问题解答" class="headerlink" title="常见问题解答"></a>常见问题解答</h2><ol>
-<li>  Q：为什么极少数情况下答案的顺序会混乱？<br>  A：这是因为文件的存储方式问题，您可以凭借自身调整回答，这个问题是无法解决的。</li>
-<li>  Q：为什么本软件会要求联网？<br>  A：连接网络可以检测版本更新从而提供更好的服务，因此您应该随时打开本软件以确认您所处于的是最新版本。</li>
-<li>  Q：为什么我的手机不可以查到答案，而其他手机可以？<br>  A：由于缺乏足够的能力，在众多用户中，目前仅发现一例根据教程而没有出现答案的案例。将来有能力的话会持续深入了解其产生的原因。</li>
-</ol>
-<hr>
-<h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>首先感谢我自己一个人开发了此软件（划）<br>其次向所有参加早期参与体验的人员表达由衷的感谢，感谢你们对我的帮助和建议。<br>早期测试人员致谢：逸哥，熙熙，星宇，小明，天天，茂茂，以及所有我校2019届10班的同学们</p>
-]]></content>
-      <tags>
-        <tag>实用软件</tag>
-        <tag>我的项目</tag>
       </tags>
   </entry>
   <entry>
@@ -330,6 +234,115 @@
       </tags>
   </entry>
   <entry>
+    <title>EaseUS——免费的PDF编辑工具（pro解锁）</title>
+    <url>/2023/06/22/EaseUS-PDF-Editor/</url>
+    <content><![CDATA[<p>#前言#<br>WPS Office的pdf编辑功能过于坑爹，下面于是我找到了一款更好的pdf编辑器，除了只有繁体中文外几乎没有缺点</p>
+<span id="more"></span>
+<p>相较于WPS Office，EaseUS PDF 在以下几个方面具有优势：</p>
+<ol>
+<li><p><strong>专注于PDF编辑</strong>：EaseUS PDF 是一款专注于PDF文件处理和编辑的软件，而WPS Office是一套综合办公套件，包括文档、表格和演示等多种功能。因此，EaseUS PDF在PDF编辑方面提供了更专业和专注的工具和功能。</p>
+</li>
+<li><p><strong>更强大的PDF编辑功能</strong>：EaseUS PDF 提供了全面而强大的PDF编辑功能，如直接修改PDF文件内容、修复损坏的PDF文件、添加注释和批注、保护和加密文件等。相比之下，WPS Office的PDF编辑功能相对有限，主要注重于文档的查看和基础编辑。</p>
+</li>
+<li><p><strong>免费使用的PDF编辑</strong>：EaseUS PDF 提供免费使用的完整PDF编辑功能，无需支付额外费用。而WPS Office的PDF编辑功能需要用户购买付费版本才能享受完整的编辑功能。这使得EaseUS PDF成为一个更加经济实惠和优惠的选择，特别是对于那些不愿意或不需要额外花费金钱购买软件的用户来说。</p>
+</li>
+<li><p><strong>直观友好的用户界面</strong>：EaseUS PDF 设计了一个直观友好的用户界面，使得用户能够轻松上手并快速完成操作。相比之下，WPS Office在整体界面和操作上更加繁琐复杂，需要一定的时间来适应和掌握。</p>
+</li>
+</ol>
+<p>#安装说明（含解锁pro版）</p>
+<ol>
+<li><strong>下载文件并解压</strong><br> <a href="http://yhsome.github.io/image/2023-6-22/EaseUS.PDF.rar">下载链接</a><br> 解压后你会看到一个这样的文件<br> <img src="/../image/2023-6-22/1.PNG"></li>
+<li><strong>打开Setup.exe进行安装</strong><br> 安装时记得选繁体中文<br> <img src="/../image/2023-6-22/2.PNG"></li>
+<li><strong>打开安装文件夹</strong><br> 这里有一个简便的方法，右键桌面上的快捷方式即可打开文件目录<br> <img src="/../image/2023-6-22/3.PNG"><br> 如果你是无脑右键安装，亦可以打开以下路径<br> <code>C:\Program Files (x86)\EaseUS\EaseUS PDF Editor\EaseUS PDF Editor.exe</code></li>
+<li><strong>将下载解压目录中的“fix”文件夹中的全部文件复制到安装文件夹中</strong><br> <img src="/../image/2023-6-22/4.PNG"><br> 记得选择替换目标中的文件<br> <img src="/../image/2023-6-22/5.PNG"><br> 如果出现访问被拒，请以管理员身份运行<br> <img src="/../image/2023-6-22/6.PNG"></li>
+<li><strong>安装完毕，请愉快使用</strong></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>实用软件</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>E听说辅助工具及使用方法</title>
+    <url>/2023/04/21/E%E5%90%AC%E8%AF%B4%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><ol>
+<li>呃啊…距离上次用E听说做英语都快是一年前的事情了，现在才有机会以网页的形式呈现教程，如果当年有这么干的想法的话，这玩意估计就以及传遍全年级了。</li>
+<li>本软件于2023&#x2F;4&#x2F;22 0:17:42测试可用。</li>
+<li>注意，本软件（指E听说极速版，下同）仅限于安卓或兼容安卓的设备使用，<strong>苹果系统不可用</strong>。<span id="more"></span></li>
+</ol>
+<hr>
+<h1 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h1><p>《E听说极速版》是一款十分强大的辅助工具，它不仅<strong>能够帮助您获取最新的听说答案</strong>，还能够让您在做限时练习时能够<strong>实时看到自己的得分情况</strong>。这是一款经过一年完善及发展的安卓软件，已稳定运行一年半。拥有独一无二的功能及稳定性。</p>
+<hr>
+<h1 id="正文：使用方式"><a href="#正文：使用方式" class="headerlink" title="正文：使用方式"></a>正文：使用方式</h1><h2 id="安装至您的安卓（或鸿蒙）系统的设备中"><a href="#安装至您的安卓（或鸿蒙）系统的设备中" class="headerlink" title="安装至您的安卓（或鸿蒙）系统的设备中"></a>安装至您的安卓（或鸿蒙）系统的设备中</h2><ol>
+<li>方式一：<a href="https://wwqk.lanzoum.com/b030rhwni">点击此打开下载链接</a> 文件密码:0000</li>
+<li>方式二：扫描二维码下载(密码0000) <blockquote>
+<p><img src="/../image/2023-4-22/0.png" alt="二维码"></p>
+</blockquote>
+</li>
+</ol>
+<h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><ol>
+<li>获取答案之前，您需要先将e听说的缓存清空，这里提供了两种方法<ol>
+<li>使用本软件自带的清除缓存功能（位于发现-清除缓存）</li>
+<li>使用E听说自带的清除缓存功能（位于我-清除缓存），如图：<blockquote>
+<p><img src="/../image/2023-4-22/1.png"></p>
+</blockquote>
+</li>
+</ol>
+</li>
+<li>点击打开你需要查看的作业（模仿朗读，趣味配音无答案）这里以下图为例： <blockquote>
+<p><img src="/../image/2023-4-22/2.png"> </p>
+</blockquote>
+</li>
+<li><strong>请确保进入如下界面再继续操作</strong>： <blockquote>
+<p><img src="/../image/2023-4-22/3.png"> </p>
+</blockquote>
+</li>
+<li>直接回到桌面，打开本软件，点击“一键搜索答案” 按钮（不同版本间可能存在差异）<blockquote>
+<p><img src="/../image/2023-4-22/4.png"> </p>
+</blockquote>
+</li>
+<li>此时关键词已经出现，组句回答即可 <blockquote>
+<p><img src="/../image/2023-4-22/5.png"> </p>
+</blockquote>
+</li>
+<li>也可以使用悬浮窗或分屏便于观看<blockquote>
+<p><img src="/../image/2023-4-22/6.png"></p>
+</blockquote>
+</li>
+</ol>
+<h2 id="设置界面介绍"><a href="#设置界面介绍" class="headerlink" title="设置界面介绍"></a>设置界面介绍</h2><ul>
+<li>文本颜色：点击“一键搜索答案”后文本的字体颜色及背景颜色</li>
+<li>显示实时分数：当您再做题时，本软件将检测您实时的分数并<strong>通过消息栏提醒您</strong>，无需在您完成后才能看到分数。</li>
+<li>限制筛选数量：<strong>（不建议打开）</strong>防止出现过多无效提示</li>
+<li>点击“复制开发者QQ号”后，将会启用开发者设置。但是<strong>如果一切正常，并不推荐修改任何关于开发者设置的内容</strong></li>
+</ul>
+<h2 id="常见问题解答"><a href="#常见问题解答" class="headerlink" title="常见问题解答"></a>常见问题解答</h2><ol>
+<li>  Q：为什么极少数情况下答案的顺序会混乱？<br>  A：这是因为文件的存储方式问题，您可以凭借自身调整回答，这个问题是无法解决的。</li>
+<li>  Q：为什么本软件会要求联网？<br>  A：连接网络可以检测版本更新从而提供更好的服务，因此您应该随时打开本软件以确认您所处于的是最新版本。</li>
+<li>  Q：为什么我的手机不可以查到答案，而其他手机可以？<br>  A：由于缺乏足够的能力，在众多用户中，目前仅发现一例根据教程而没有出现答案的案例。将来有能力的话会持续深入了解其产生的原因。</li>
+</ol>
+<hr>
+<h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>首先感谢我自己一个人开发了此软件（划）<br>其次向所有参加早期参与体验的人员表达由衷的感谢，感谢你们对我的帮助和建议。<br>早期测试人员致谢：逸哥，熙熙，星宇，小明，天天，茂茂，以及所有我校2019届10班的同学们</p>
+]]></content>
+      <tags>
+        <tag>实用软件</tag>
+        <tag>我的项目</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于六月七日回桥兴中学的相关信息</title>
+    <url>/2023/06/03/Shcedule/</url>
+    <content><![CDATA[<p>截至2023&#x2F;6&#x2F;6 21：36 共计10人参与：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黄茂轩，霍泽明，何城熙，张逸，林浩天，陈曦洋，杨浩森，王绮璇，崔雅晞，梁海晴</span><br></pre></td></tr></table></figure>
+
+<p><img src="/../image/2023-6-06/1.jpg" alt="早上路拍桥兴"></p>
+<p>时间：在2023&#x2F;6&#x2F;07 16：30于桥兴校门集合。<br>其中 <em><strong>杨浩森，霍泽明，王绮璇，陈曦洋</strong></em> 四人将于16:15番禺职中放学后步行至桥兴， <em><strong>黄茂轩</strong></em> 先于16:00进入桥兴。</p>
+<p>离校时间待定。</p>
+<p>晚饭暂定有 <em><strong>杨浩森，霍泽明，张逸，何城熙，林浩天，黄茂轩</strong></em> 共六人。</p>
+<p>有更多需要补充，请找我（杨浩森）或张逸。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>研究性学习相关内容</title>
     <url>/2023/06/22/RsearchLearning/</url>
     <content><![CDATA[<h3 id="作为组员，您需要完成的内容"><a href="#作为组员，您需要完成的内容" class="headerlink" title="作为组员，您需要完成的内容"></a>作为组员，您需要完成的内容</h3><ol>
@@ -350,27 +363,6 @@
       </tags>
   </entry>
   <entry>
-    <title>关于六月七日回桥兴中学的相关信息</title>
-    <url>/2023/06/03/Shcedule/</url>
-    <content><![CDATA[<p>截至2023&#x2F;6&#x2F;6 21：36 共计10人参与：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黄茂轩，霍泽明，何城熙，张逸，林浩天，陈曦洋，杨浩森，王绮璇，崔雅晞，梁海晴</span><br></pre></td></tr></table></figure>
-
-<p><img src="/../image/2023-6-06/1.jpg" alt="早上路拍桥兴"></p>
-<p>时间：在2023&#x2F;6&#x2F;07 16：30于桥兴校门集合。<br>其中 <em><strong>杨浩森，霍泽明，王绮璇，陈曦洋</strong></em> 四人将于16:15番禺职中放学后步行至桥兴， <em><strong>黄茂轩</strong></em> 先于16:00进入桥兴。</p>
-<p>离校时间待定。</p>
-<p>晚饭暂定有 <em><strong>杨浩森，霍泽明，张逸，何城熙，林浩天，黄茂轩</strong></em> 共六人。</p>
-<p>有更多需要补充，请找我（杨浩森）或张逸。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>altale五线谱</title>
-    <url>/2023/08/06/altale/</url>
-    <content><![CDATA[<p>作者不是我，仅搬运<br>下载链接：<a href="../image/2023-8-06/altale.pdf">点击下载</a></p>
-<span id="more"></span>
-<p><img src="/../image/2023-8-06/pg1.jpg"><br><img src="/../image/2023-8-06/pg2.jpg"><br><img src="/../image/2023-8-06/pg3.jpg"><br><img src="/../image/2023-8-06/pg4.jpg"><br><img src="/../image/2023-8-06/pg5.jpg"><br><img src="/../image/2023-8-06/pg6.jpg"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>录屏软件bandicam下载</title>
     <url>/2023/07/25/bandicam/</url>
     <content><![CDATA[<p>下载地址：<a href="../image/2023-7-25/BandiCam.zip">点击下载</a></p>
@@ -382,6 +374,14 @@
       <tags>
         <tag>实用软件</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>altale五线谱</title>
+    <url>/2023/08/06/altale/</url>
+    <content><![CDATA[<p>作者不是我，仅搬运<br>下载链接：<a href="../image/2023-8-06/altale.pdf">点击下载</a></p>
+<span id="more"></span>
+<p><img src="/../image/2023-8-06/pg1.jpg"><br><img src="/../image/2023-8-06/pg2.jpg"><br><img src="/../image/2023-8-06/pg3.jpg"><br><img src="/../image/2023-8-06/pg4.jpg"><br><img src="/../image/2023-8-06/pg5.jpg"><br><img src="/../image/2023-8-06/pg6.jpg"></p>
+]]></content>
   </entry>
   <entry>
     <title>Bandizip专业版解锁及去除更新</title>
@@ -409,6 +409,22 @@
 ]]></content>
       <tags>
         <tag>实用软件</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PixelQX：像素桥兴计划</title>
+    <url>/2023/08/28/pixelqx/</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>前段时间和朋友吹水时，偶尔提到了桥兴中学的事儿，突然灵光一闪：万一我们真的能在我的世界里面还原桥兴中学呢。心动不如行动，于是就有了这个计划。并且，<strong>我为此还开设了一个服务器，大家也可以随时进入参观玩耍。</strong><br><img src="/../image/2023-6-06/1.jpg" alt="2023年6月6日早上路拍桥兴"><br>实拍镇帖。</p>
+<span id="more"></span>
+<h1 id="如何加入此服务器？"><a href="#如何加入此服务器？" class="headerlink" title="如何加入此服务器？"></a>如何加入此服务器？</h1><p>本服务器同时支持java、基岩版minecraft并且无需正版账号，即您可以通过安卓手机或电脑加入服务器。</p>
+<h2 id="安卓手机参考步骤："><a href="#安卓手机参考步骤：" class="headerlink" title="安卓手机参考步骤："></a>安卓手机参考步骤：</h2><p>打开这个网址下载国际版我的世界1.20.1版本<br><a href="https://mcapks.net/info/MS4yMC4xMC4wMQ%3D%3D/5a7f50aa76c2e0b28b45946bdbdd0260.html">点击跳转</a><br>接着输入服务器地址以及端口<br>服务器 IP: play.simpfun.cn · 端口: 12567<br><img src="/../image/pixelqx/1.png"><br>然后按照提示注册或登录Microsoft账号即可进入服务器。</p>
+<h2 id="当然你也可以使用java版登入"><a href="#当然你也可以使用java版登入" class="headerlink" title="当然你也可以使用java版登入"></a>当然你也可以使用java版登入</h2><p>只需安装启动器（例如pcl2），进入游戏，选择多人游戏，输入服务器地址以及端口即可直接进入。</p>
+<h1 id="施工进展及相关内容展示"><a href="#施工进展及相关内容展示" class="headerlink" title="施工进展及相关内容展示"></a>施工进展及相关内容展示</h1><p>2023&#x2F;8&#x2F;25<br>完成了初一初二及行政楼的占地划线<br><img src="/../image/pixelqx/2.png"></p>
+<p>2023&#x2F;8&#x2F;26<br>完成了办公室、正门前的架空层过道、保安亭、升旗台等相关外饰的设计<br><img src="/../image/pixelqx/3.png"></p>
+<p>2023&#x2F;8&#x2F;28<br>将楼层划分清楚，完成了部分地板的铺设<br><img src="/../image/pixelqx/4.png"></p>
+]]></content>
+      <tags>
+        <tag>PixelQX</tag>
       </tags>
   </entry>
   <entry>
@@ -496,6 +512,15 @@
       </tags>
   </entry>
   <entry>
+    <title>几个ChatGPT镜像网站</title>
+    <url>/2023/04/09/%E5%87%A0%E4%B8%AAChatGPT%E9%95%9C%E5%83%8F%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<p>ChatGPT，懂的都懂，相当于一个大号百度，还可以用它来写写作文，做下演讲稿之类的。<br>下面是一些目前（截止至2023&#x2F;5&#x2F;20）可用的免费chatgpt镜像网页</p>
+<span id="more"></span>
+<p>5.<a href="https://hzdjs.cn/chatgpt" title="hzdjs">hzdjs</a>:风格不错（需要登录）<br>7.<a href="http://chatbot.theb.ai/" title="BAI-Chat">BAI-Chat</a>需要科学上网，功能齐全<br>8.<a href="https://chat.jinshutuan.com/">yqcloud</a> 有监管，免费</p>
+<p>2023&#x2F;4&#x2F;12 22:33:48 补充：近期openai对亚洲账号封禁比较频繁，镜像网站极不稳定，能用且用！原文不可用的已经删除。<br>2023&#x2F;4&#x2F;22 02:40:17 补充：最近貌似好多都不能用了，还是看看国内的文心一言吧…<br>2023&#x2F;5&#x2F;20 18:40:00 现在很多都不能用了，国内的镜像不可靠，看看外网的表现吧</p>
+]]></content>
+  </entry>
+  <entry>
     <title>西柚朗读者（西柚英语辅助）</title>
     <url>/2023/08/23/xiyouspeaker/</url>
     <content><![CDATA[<p>** 此文章同步保存在以下网站 **<br><a href="https://yhsome.github.io/2023/08/23/xiyouspeaker">森的神秘空间</a><br><a href="https://github.com/YHSome/xiyouspeaker/">github</a></p>
@@ -533,15 +558,6 @@
     <title>一些钢琴谱下载</title>
     <url>/2023/08/12/%E4%B8%80%E4%BA%9B%E9%92%A2%E7%90%B4%E8%B0%B1%E4%B8%8B%E8%BD%BD/</url>
     <content><![CDATA[<p>b站收集的一些钢琴谱，主要都是著名电子音乐改编，有需要可以自行下载。<br><a href="../image/2023-8-06/altale.pdf">altale钢琴谱</a><br><a href="../image/2023-8-12/cryout.pdf">cryout钢琴谱</a><br><a href="../image/2023-8-12/DistortedFate.pdf">Distorted Fate钢琴谱</a><br><a href="../image/2023-8-12/WATER.pdf">WATER钢琴谱</a><br><a href="../image/2023-8-12/WithYou.pdf">With You钢琴谱</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>几个ChatGPT镜像网站</title>
-    <url>/2023/04/09/%E5%87%A0%E4%B8%AAChatGPT%E9%95%9C%E5%83%8F%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<p>ChatGPT，懂的都懂，相当于一个大号百度，还可以用它来写写作文，做下演讲稿之类的。<br>下面是一些目前（截止至2023&#x2F;5&#x2F;20）可用的免费chatgpt镜像网页</p>
-<span id="more"></span>
-<p>5.<a href="https://hzdjs.cn/chatgpt" title="hzdjs">hzdjs</a>:风格不错（需要登录）<br>7.<a href="http://chatbot.theb.ai/" title="BAI-Chat">BAI-Chat</a>需要科学上网，功能齐全<br>8.<a href="https://chat.jinshutuan.com/">yqcloud</a> 有监管，免费</p>
-<p>2023&#x2F;4&#x2F;12 22:33:48 补充：近期openai对亚洲账号封禁比较频繁，镜像网站极不稳定，能用且用！原文不可用的已经删除。<br>2023&#x2F;4&#x2F;22 02:40:17 补充：最近貌似好多都不能用了，还是看看国内的文心一言吧…<br>2023&#x2F;5&#x2F;20 18:40:00 现在很多都不能用了，国内的镜像不可靠，看看外网的表现吧</p>
 ]]></content>
   </entry>
   <entry>
@@ -626,15 +642,6 @@
       </tags>
   </entry>
   <entry>
-    <title>征文-感动中国2023十大人物观后感</title>
-    <url>/2023/04/09/%E5%BE%81%E6%96%87-%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD2023%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9%E8%A7%82%E5%90%8E%E6%84%9F/</url>
-    <content><![CDATA[<p>“感动中国十大人物”是一个充满正能量和感人故事的节目，在观看完视频后，我深受启发。这些普通人因为坚持信仰、拥有强烈责任感或是积极向上的心态，展现出了不屈不挠的精神品质，让我们在这个世界上看到了希望与光明。他们的故事令人感动，更激励着我们每个人在生活中要勇敢面对困难，永不放弃追求美好的生活和理想。<br>作为中学生，看到“银发知播”这个群体的故事，我深深受到启发。他们用自己的智慧和经验，通过网络将知识传递给年轻人，让我们能够更快地了解世界、认识自我。这启示我要珍惜所学的每一门学科，不仅是为了应对考试，更是为了拥有更多的知识和技能来面对未来的挑战。他们的无私奉献和坚持不懈，也让我明白了学习的重要性和坚持的力量。无论在学习还是生活中，只有坚持下去，才能收获成功。同时，也要保持谦逊和包容的心态，在学习的过程中虚心向老师、同学请教，共同进步。<br>陆鸿的故事如同一盏明灯，在黑暗中照亮我们的前行路。他的坚韧不拔和勇往直前的精神，令人肃然起敬。首先，他用实际行动告诉我们，身体上的障碍并不是绝境，只要我们有足够的毅力和智慧，无所不能。其次，他展现了团结合作的力量，把残缺不全的个体凝聚在一起，共同创造属于自己的天空。最后，他告诉我们，梦想是生命的动力，只有勇敢追求才能到达彼岸。陆鸿的奋斗史，像一部伟大的史诗，铭刻在我们的内心深处。他用自己的行动演绎了一番感人至深的华章。他的成功之路，注定会成为后人茁壮成长的助推器。因此，让我们珍惜自己的每一次机会，努力拓展自身能力，与他人合作解决问题，在自己的梦想道路上勇往直前。<br>有时候，一个人的一次尝试可能会改变世界。福建农林大学教授林占熺就是这样的人。他发明了以草代木培养食药用菌的方法，为解决“种植食用菌就必须砍树”的难题提供了方案。但是，这个方法的背后也隐藏着无数的艰辛和牺牲。林占熺的亲弟弟就在菌草栽培的一线不幸去世，而林占熺自己也在常年奔波中几乎遭遇意外。然而，林占熺没有因此放弃。他坚信自己的研究可以改善人们的生活，并且将其推广到全世界。今天，“菌草”已经走出国门，成为一项成功的创新，为全球的贫困地区提供了脱贫致富的方案。这个故事启示我们，成功需要勇气和毅力。尽管面对巨大的困难和不可预知的风险，林占熺依然坚持自己的信念，并最终取得了成功。作为中学生，我们也应该学习林占熺的精神，勇敢尝试新事物，克服困难，追求自己的梦想和目标。无论是在学习、生活还是社交中，只要我们有足够的毅力和坚持，就能够取得成功。因此，让我们大胆探索未知世界，挑战自我，不断进步，成为一个更好的人！<br>作为一个新时代的中学生，我们应该秉持着良好的品德和态度，勇于追求知识，锻炼自己的能力，培养自主学习和创新精神，同时注重身体健康、社会责任和个人成长。通过学习“感动中国十大人物”等正能量榜单，我们可以从他们身上汲取坚韧不拔的精神力量和前行的动力，激发自己的内在潜能，努力为实现自己的理想而奋斗！</p>
-]]></content>
-      <tags>
-        <tag>征文</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>征文-雾都孤儿观后感</title>
     <url>/2023/05/14/%E5%BE%81%E6%96%87-%E9%9B%BE%E9%83%BD%E5%AD%A4%E5%84%BF%E8%A7%82%E5%90%8E%E6%84%9F/</url>
     <content><![CDATA[<p>《雾都孤儿》是查尔斯·狄更斯的一部经典小说，讲述了一个孤儿少年奥利弗的命运转折和成长历程。从故事中我能感受到人性的阴暗面以及对正义与善良的追求。</p>
@@ -650,11 +657,31 @@
       </tags>
   </entry>
   <entry>
+    <title>征文-感动中国2023十大人物观后感</title>
+    <url>/2023/04/09/%E5%BE%81%E6%96%87-%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD2023%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9%E8%A7%82%E5%90%8E%E6%84%9F/</url>
+    <content><![CDATA[<p>“感动中国十大人物”是一个充满正能量和感人故事的节目，在观看完视频后，我深受启发。这些普通人因为坚持信仰、拥有强烈责任感或是积极向上的心态，展现出了不屈不挠的精神品质，让我们在这个世界上看到了希望与光明。他们的故事令人感动，更激励着我们每个人在生活中要勇敢面对困难，永不放弃追求美好的生活和理想。<br>作为中学生，看到“银发知播”这个群体的故事，我深深受到启发。他们用自己的智慧和经验，通过网络将知识传递给年轻人，让我们能够更快地了解世界、认识自我。这启示我要珍惜所学的每一门学科，不仅是为了应对考试，更是为了拥有更多的知识和技能来面对未来的挑战。他们的无私奉献和坚持不懈，也让我明白了学习的重要性和坚持的力量。无论在学习还是生活中，只有坚持下去，才能收获成功。同时，也要保持谦逊和包容的心态，在学习的过程中虚心向老师、同学请教，共同进步。<br>陆鸿的故事如同一盏明灯，在黑暗中照亮我们的前行路。他的坚韧不拔和勇往直前的精神，令人肃然起敬。首先，他用实际行动告诉我们，身体上的障碍并不是绝境，只要我们有足够的毅力和智慧，无所不能。其次，他展现了团结合作的力量，把残缺不全的个体凝聚在一起，共同创造属于自己的天空。最后，他告诉我们，梦想是生命的动力，只有勇敢追求才能到达彼岸。陆鸿的奋斗史，像一部伟大的史诗，铭刻在我们的内心深处。他用自己的行动演绎了一番感人至深的华章。他的成功之路，注定会成为后人茁壮成长的助推器。因此，让我们珍惜自己的每一次机会，努力拓展自身能力，与他人合作解决问题，在自己的梦想道路上勇往直前。<br>有时候，一个人的一次尝试可能会改变世界。福建农林大学教授林占熺就是这样的人。他发明了以草代木培养食药用菌的方法，为解决“种植食用菌就必须砍树”的难题提供了方案。但是，这个方法的背后也隐藏着无数的艰辛和牺牲。林占熺的亲弟弟就在菌草栽培的一线不幸去世，而林占熺自己也在常年奔波中几乎遭遇意外。然而，林占熺没有因此放弃。他坚信自己的研究可以改善人们的生活，并且将其推广到全世界。今天，“菌草”已经走出国门，成为一项成功的创新，为全球的贫困地区提供了脱贫致富的方案。这个故事启示我们，成功需要勇气和毅力。尽管面对巨大的困难和不可预知的风险，林占熺依然坚持自己的信念，并最终取得了成功。作为中学生，我们也应该学习林占熺的精神，勇敢尝试新事物，克服困难，追求自己的梦想和目标。无论是在学习、生活还是社交中，只要我们有足够的毅力和坚持，就能够取得成功。因此，让我们大胆探索未知世界，挑战自我，不断进步，成为一个更好的人！<br>作为一个新时代的中学生，我们应该秉持着良好的品德和态度，勇于追求知识，锻炼自己的能力，培养自主学习和创新精神，同时注重身体健康、社会责任和个人成长。通过学习“感动中国十大人物”等正能量榜单，我们可以从他们身上汲取坚韧不拔的精神力量和前行的动力，激发自己的内在潜能，努力为实现自己的理想而奋斗！</p>
+]]></content>
+      <tags>
+        <tag>征文</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>时评-KSG廉颇打野</title>
     <url>/2023/04/13/%E6%97%B6%E8%AF%84-KSG%E5%BB%89%E9%A2%87%E6%89%93%E9%87%8E/</url>
     <content><![CDATA[<p>KPL王者荣耀职业联赛已经成为中国电竞行业中的一颗璀璨明珠。最近，苏州KSG战队的主教练在赛后采访中表示，他们准备好了打这种正面团战，并在有优势的时候更干脆地打野区，进攻更稳定，用强团战阵容主要打一个半图。此外，他还透露，在目前的训练赛中，一些队伍仍在使用廉颇打野，而他们会根据版本和理解进行调整。<br>这一消息表明，KPL联赛的竞争已经非常激烈，每个战队都在不断地寻找新的策略和战术来获得优势。这也反映了电竞行业的快速发展，这个行业已经成为了一个庞大的产业链，涵盖了游戏开发、电竞比赛、直播平台等各个方面。<br>然而，随着电竞行业的发展，也出现了一些问题。例如，一些年轻人过于沉迷于游戏，影响了他们的学业和生活。此外，一些游戏的暴力和血腥内容也引发了社会的关注。<br>为了解决这些问题，我们需要采取一些措施。首先，需要加强对电竞行业的监管，防止未成年人沉迷于游戏。其次，游戏开发商需要更加注意游戏内容的健康性，避免过度的暴力和血腥元素。最后，我们需要加强对电竞行业的宣传和教育，让更多人了解这个行业的积极意义，并激发他们对电竞的兴趣和热情。</p>
 <span id="more"></span>
 <p>原文：<br>【赛后采访】#AG对战KSG#<br>苏州KSG主教练安之：<br>[星星]我们有准备打这种正面团战；<br>[星星]在我们有优势的时候野区打得更干脆一点，进攻更稳定一点，用强团战阵容主要打一个半图；<br>[星星]目前训练赛还是会有队伍使用廉颇打野；<br>[星星]我们还是根据版本和理解去调整。<br><a href="https://weibo.com/6074356560/MBQoTmjuB?refer_flag=1001030103_">原文链接</a></p>
+]]></content>
+      <tags>
+        <tag>时评</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>时评-外交部对美国反华议员采取反制措施</title>
+    <url>/2023/04/13/%E6%97%B6%E8%AF%84-%E5%A4%96%E4%BA%A4%E9%83%A8%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%8F%8D%E5%8D%8E%E8%AE%AE%E5%91%98%E9%87%87%E5%8F%96%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD/</url>
+    <content><![CDATA[<p>在当前全球化和多极化的时代背景下，中美关系的稳定和健康对于世界和平与发展都具有重要意义。然而，近年来，美国政府对中国采取了一系列的制裁和压力手段，包括对中国企业和个人实施制裁、干涉中国内政、煽动“台独”等问题，这些行为已经引起了中国政府和民众的强烈反感和不满。<br>在这种情况下，中国政府的反制措施也是理所当然的。对于那些试图干涉中国内政、损害中方利益的人，中国政府不会被任何外部力量所恐吓或压制，将采取果断、有力的反制措施，维护国家的尊严和利益。同时，中国政府也希望美国政府能够回归理性，摒弃对中国的一些不负责任的言行和行动，以建立稳定、健康的中美关系。<br>我们需要认识到，中美关系的稳定和健康对于全球和平与发展都具有重大意义。中美两国作为世界上最大的两个经济体，有着密切的利益联系和合作基础。在当前全球经济形势下，中美两国合作不仅有利于两国的经济发展，也可以为全球经济增长注入新的动力。同时，中美两国在应对气候变化、打击国际恐怖主义等方面也有着广泛的共同利益和合作空间。<br>因此，我们应该在尊重彼此主权和利益的基础上，通过对话和协商来解决问题，而不是采取施压和制裁的手段。只有当双方都能够摒弃偏见和误解，相互尊重、平等合作，才能够实现共赢的局面。中美两国应该共同努力，推动中美关系不断向前发展，为世界和平与发展作出更大的贡献。</p>
+<span id="more"></span>
+<p>原文：<br>据外交部网站消息，美国得克萨斯州共和党联邦众议员迈克·麦考尔（Michael McCaul）近年来频繁采取干涉中国内政、损害中方利益的言行，并于近期率团窜访中国台湾地区，严重违反一个中国原则和中美三个联合公报规定，严重损害中国主权和领土完整，向“台独”分裂势力发出严重错误信号。<br>依据《中华人民共和国反外国制裁法》第三条、第四条、第六条、第十五条规定，中方决定对麦考尔采取以下反制措施：<br>一、冻结在我国境内的动产、不动产和其他各类财产；<br>二、禁止我国境内的组织、个人与其进行有关交易、合作等活动；<br>三、对其本人不予签发签证、不准入境。<br>本决定自2023年4月13日起施行。（外交部）<br><a href="https://weibo.com/1784473157/MBP0Mqobm?refer_flag=1001030103_">原文链接</a></p>
 ]]></content>
       <tags>
         <tag>时评</tag>
@@ -694,14 +721,28 @@
       </tags>
   </entry>
   <entry>
-    <title>时评-外交部对美国反华议员采取反制措施</title>
-    <url>/2023/04/13/%E6%97%B6%E8%AF%84-%E5%A4%96%E4%BA%A4%E9%83%A8%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%8F%8D%E5%8D%8E%E8%AE%AE%E5%91%98%E9%87%87%E5%8F%96%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD/</url>
-    <content><![CDATA[<p>在当前全球化和多极化的时代背景下，中美关系的稳定和健康对于世界和平与发展都具有重要意义。然而，近年来，美国政府对中国采取了一系列的制裁和压力手段，包括对中国企业和个人实施制裁、干涉中国内政、煽动“台独”等问题，这些行为已经引起了中国政府和民众的强烈反感和不满。<br>在这种情况下，中国政府的反制措施也是理所当然的。对于那些试图干涉中国内政、损害中方利益的人，中国政府不会被任何外部力量所恐吓或压制，将采取果断、有力的反制措施，维护国家的尊严和利益。同时，中国政府也希望美国政府能够回归理性，摒弃对中国的一些不负责任的言行和行动，以建立稳定、健康的中美关系。<br>我们需要认识到，中美关系的稳定和健康对于全球和平与发展都具有重大意义。中美两国作为世界上最大的两个经济体，有着密切的利益联系和合作基础。在当前全球经济形势下，中美两国合作不仅有利于两国的经济发展，也可以为全球经济增长注入新的动力。同时，中美两国在应对气候变化、打击国际恐怖主义等方面也有着广泛的共同利益和合作空间。<br>因此，我们应该在尊重彼此主权和利益的基础上，通过对话和协商来解决问题，而不是采取施压和制裁的手段。只有当双方都能够摒弃偏见和误解，相互尊重、平等合作，才能够实现共赢的局面。中美两国应该共同努力，推动中美关系不断向前发展，为世界和平与发展作出更大的贡献。</p>
-<span id="more"></span>
-<p>原文：<br>据外交部网站消息，美国得克萨斯州共和党联邦众议员迈克·麦考尔（Michael McCaul）近年来频繁采取干涉中国内政、损害中方利益的言行，并于近期率团窜访中国台湾地区，严重违反一个中国原则和中美三个联合公报规定，严重损害中国主权和领土完整，向“台独”分裂势力发出严重错误信号。<br>依据《中华人民共和国反外国制裁法》第三条、第四条、第六条、第十五条规定，中方决定对麦考尔采取以下反制措施：<br>一、冻结在我国境内的动产、不动产和其他各类财产；<br>二、禁止我国境内的组织、个人与其进行有关交易、合作等活动；<br>三、对其本人不予签发签证、不准入境。<br>本决定自2023年4月13日起施行。（外交部）<br><a href="https://weibo.com/1784473157/MBP0Mqobm?refer_flag=1001030103_">原文链接</a></p>
+    <title>红楼梦思维导图11-20回</title>
+    <url>/2023/05/14/%E7%BA%A2%E6%A5%BC%E6%A2%A6%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE11-20%E5%9B%9E/</url>
+    <content><![CDATA[<p>-[点此下载所有思维导图（压缩文件）](<a href="https://yhsome.github.io/image/2023-5-28/DreamOfRedMansion.zip">https://YHSome.github.io/image/2023-5-28/DreamOfRedMansion.zip</a> </p>
+<ul>
+<li>此处仅有11-20回思维导图，将持续更新搬运，请查看我的<a href="http://yhsome.github.io/">个人博客</a></li>
+<li>您可以使用浏览器的搜索页面文本功能（ctrl+f）功能快速查找对应章节<span id="more"></span></li>
+</ul>
+<ol start="11">
+<li><img src="/../image/2023-5-15/1.jpg"> </li>
+<li><img src="/../image/2023-5-15/2.jpg"> </li>
+<li><img src="/../image/2023-5-15/3.jpg"> </li>
+<li><img src="/../image/2023-5-15/4.jpg"> </li>
+<li><img src="/../image/2023-5-15/5.jpg"> </li>
+<li><img src="/../image/2023-5-15/6.jpg"> </li>
+<li><img src="/../image/2023-5-15/7.jpg"> </li>
+<li><img src="/../image/2023-5-15/8.jpg"> </li>
+<li><img src="/../image/2023-5-15/9.jpg"> </li>
+<li><img src="/../image/2023-5-15/10.jpg"></li>
+</ol>
 ]]></content>
       <tags>
-        <tag>时评</tag>
+        <tag>红楼梦</tag>
       </tags>
   </entry>
   <entry>
@@ -734,31 +775,6 @@
 <li><img src="/../image/2023-5-14/8.jpg"> </li>
 <li><img src="/../image/2023-5-14/9.jpg"> </li>
 <li><img src="/../image/2023-5-14/10.jpg"></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>红楼梦</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>红楼梦思维导图11-20回</title>
-    <url>/2023/05/14/%E7%BA%A2%E6%A5%BC%E6%A2%A6%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE11-20%E5%9B%9E/</url>
-    <content><![CDATA[<p>-[点此下载所有思维导图（压缩文件）](<a href="https://yhsome.github.io/image/2023-5-28/DreamOfRedMansion.zip">https://YHSome.github.io/image/2023-5-28/DreamOfRedMansion.zip</a> </p>
-<ul>
-<li>此处仅有11-20回思维导图，将持续更新搬运，请查看我的<a href="http://yhsome.github.io/">个人博客</a></li>
-<li>您可以使用浏览器的搜索页面文本功能（ctrl+f）功能快速查找对应章节<span id="more"></span></li>
-</ul>
-<ol start="11">
-<li><img src="/../image/2023-5-15/1.jpg"> </li>
-<li><img src="/../image/2023-5-15/2.jpg"> </li>
-<li><img src="/../image/2023-5-15/3.jpg"> </li>
-<li><img src="/../image/2023-5-15/4.jpg"> </li>
-<li><img src="/../image/2023-5-15/5.jpg"> </li>
-<li><img src="/../image/2023-5-15/6.jpg"> </li>
-<li><img src="/../image/2023-5-15/7.jpg"> </li>
-<li><img src="/../image/2023-5-15/8.jpg"> </li>
-<li><img src="/../image/2023-5-15/9.jpg"> </li>
-<li><img src="/../image/2023-5-15/10.jpg"></li>
 </ol>
 ]]></content>
       <tags>
@@ -882,6 +898,23 @@
 ]]></content>
   </entry>
   <entry>
+    <title>随笔-一些给新高一的资料</title>
+    <url>/2023/08/10/%E9%9A%8F%E7%AC%94-%E4%B8%80%E4%BA%9B%E7%BB%99%E6%96%B0%E9%AB%98%E4%B8%80%E7%9A%84%E8%B5%84%E6%96%99%E5%92%8C%E5%BB%BA%E8%AE%AE/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>送给新高一的好东西，如果你是番中的那么这些网页将很适合你。</p>
+<span id="more"></span>
+<h2 id="资料"><a href="#资料" class="headerlink" title="资料"></a>资料</h2><p>点击打开</p>
+<ol>
+<li><a href="https://yhsome.github.io/tags/%E5%BE%81%E6%96%87/">一些乱七八糟的正文稿</a></li>
+<li><a href="http://yhsome.github.io/tags/%E6%97%B6%E8%AF%84/">2023年4月份的时事评论</a></li>
+<li><a href="http://yhsome.github.io/tags/%E7%BA%A2%E6%A5%BC%E6%A2%A6/">高一下学期必读名著红楼梦思维导图</a></li>
+<li><a href="http://yhsome.github.io/tags/%E9%AB%98%E4%B8%80%E6%95%91%E6%80%A5/">综合实践、美术这种可以随便应付的科目</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>蓝灯镜像下载</title>
     <url>/2023/05/13/%E8%93%9D%E7%81%AF%E9%95%9C%E5%83%8F%E4%B8%8B%E8%BD%BD/</url>
     <content><![CDATA[<p>注意，此处为镜像站，具体视官网为准</p>
@@ -912,23 +945,6 @@
     <title>这是一条测试帖~</title>
     <url>/2023/04/09/%E8%BF%99%E6%98%AF%E4%B8%80%E6%9D%A1%E6%B5%8B%E8%AF%95%E5%B8%96/</url>
     <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>随笔-一些给新高一的资料</title>
-    <url>/2023/08/10/%E9%9A%8F%E7%AC%94-%E4%B8%80%E4%BA%9B%E7%BB%99%E6%96%B0%E9%AB%98%E4%B8%80%E7%9A%84%E8%B5%84%E6%96%99%E5%92%8C%E5%BB%BA%E8%AE%AE/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>送给新高一的好东西，如果你是番中的那么这些网页将很适合你。</p>
-<span id="more"></span>
-<h2 id="资料"><a href="#资料" class="headerlink" title="资料"></a>资料</h2><p>点击打开</p>
-<ol>
-<li><a href="https://yhsome.github.io/tags/%E5%BE%81%E6%96%87/">一些乱七八糟的正文稿</a></li>
-<li><a href="http://yhsome.github.io/tags/%E6%97%B6%E8%AF%84/">2023年4月份的时事评论</a></li>
-<li><a href="http://yhsome.github.io/tags/%E7%BA%A2%E6%A5%BC%E6%A2%A6/">高一下学期必读名著红楼梦思维导图</a></li>
-<li><a href="http://yhsome.github.io/tags/%E9%AB%98%E4%B8%80%E6%95%91%E6%80%A5/">综合实践、美术这种可以随便应付的科目</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
   </entry>
   <entry>
     <title>随笔-平价零食超市真的平价吗</title>
