@@ -471,12 +471,31 @@
     <title>西柚选择者（西柚英语辅助）</title>
     <url>/2023/08/19/xiyouchooser/</url>
     <content><![CDATA[<p>** 此文章同步保存在以下网站 **<br><a href="https://yhsome.github.io/2023/08/19/xiyouchooser">森的神秘空间</a><br><a href="https://github.com/YHSome/xiyouchooser/">github</a></p>
-<h1 id="功能简介"><a href="#功能简介" class="headerlink" title="功能简介"></a>功能简介</h1><p>该脚本可以帮助你完成 <a href="https://student.xiyouyingyu.com/">西柚英语</a> 中烦人的看词选义和看义选词。<br><a href="https://github.com/YHSome/xiyouhelper/">github项目地址&#x2F;下载地址</a></p>
+<h1 id="功能简介"><a href="#功能简介" class="headerlink" title="功能简介"></a>功能简介</h1><p>该脚本可以帮助你完成 <a href="https://student.xiyouyingyu.com/">西柚英语</a> 中烦人的看词选义和看义选词。<br><a href="https://github.com/YHSome/xiyouchooser/">github项目地址&#x2F;下载地址</a></p>
 <span id="more"></span>
-<h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><p><a href="https://github.com/YHSome/xiyouchooser/raw/main/example.mp4">点击此处打开演示视频</a></p>
+<h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><p>下面是演示视频<br><video width="640" height="480" controls><br>  <source src="https://github.com/YHSome/xiyouchooser/blob/main/example.mp4" type="video/mp4"><br>  Your browser does not support the video tag.<br></video></p>
 <h2 id="第一步：安装python以及相应库"><a href="#第一步：安装python以及相应库" class="headerlink" title="第一步：安装python以及相应库"></a>第一步：安装python以及相应库</h2><p>你需要安装的python库有</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">pytesseract</span><br><span class="line">transformers</span><br><span class="line">pillow</span><br><span class="line">pyautogui</span><br></pre></td></tr></table></figure>
-<h2 id="第二部，完成相应配置"><a href="#第二部，完成相应配置" class="headerlink" title="第二部，完成相应配置"></a>第二部，完成相应配置</h2><p>打开 <code>./config.json</code> ，填写相应配置。以下是配置文件的相关释义<br><strong>提示：</strong>你可以使用 <code>./显示鼠标坐标.py</code> 快速定位光标所处的像素的坐标</p>
+<blockquote>
+<p>要安装pytesseract、transformers、pillow和pyautogui这些Python库，可以按照以下步骤进行：</p>
+<ol>
+<li>首先，确保你的计算机上已经安装了Python。你可以从Python官方网站下载并安装最新版本的Python。</li>
+<li>安装pip：pip是Python的包管理工具，用于安装和管理Python库。如果你还没有安装pip，可以通过以下命令在命令提示符或终端中安装：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt;python -m ensurepip --upgrade</span><br></pre></td></tr></table></figure></li>
+<li>安装pytesseract：</li>
+</ol>
+<ul>
+<li>如果你使用的是Windows操作系统，可以在命令提示符或终端中使用以下命令安装pytesseract：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">`pip install pytesseract`</span><br></pre></td></tr></table></figure></li>
+<li>如果你使用的是Linux操作系统，可以在命令提示符或终端中使用以下命令安装pytesseract：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">`pip install pillow pytesseract`</span><br></pre></td></tr></table></figure></li>
+<li>如果你使用的是MacOS，可以在命令提示符或终端中使用以下命令安装pytesseract：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">`pip install pillow pytesseract`</span><br></pre></td></tr></table></figure></li>
+</ul>
+<ol start="4">
+<li>安装transformers：在命令提示符或终端中使用以下命令安装transformers：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt;pip install transformers</span><br></pre></td></tr></table></figure></li>
+<li>安装pillow：在命令提示符或终端中使用以下命令安装pillow：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt;pip install pillow</span><br></pre></td></tr></table></figure></li>
+<li>安装pyautogui：在命令提示符或终端中使用以下命令安装pyautogui：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt;pip install pyautogui</span><br></pre></td></tr></table></figure>
+这些步骤应该可以帮助你安装所需的Python库。</li>
+</ol>
+</blockquote>
+<h2 id="第二步：完成相应配置"><a href="#第二步：完成相应配置" class="headerlink" title="第二步：完成相应配置"></a>第二步：完成相应配置</h2><p>打开 <code>./config.json</code> ，填写相应配置。以下是配置文件的相关释义<br><strong>提示：</strong>你可以使用 <code>./快速配置.py</code> 快速完成配置</p>
 <blockquote>
 <p>“screensize”: 屏幕分辨率【x,y】</p>
 </blockquote>
@@ -503,7 +522,7 @@
 <p>这个是这个是1600x900分辨率下，谷歌浏览器（左）半屏打开向右拉到底的设置示例</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">  &quot;screensize&quot;: [1600,900],</span><br><span class="line">  &quot;randompos&quot;: [350,565],</span><br><span class="line">  &quot;nextpos&quot;: [1025,825],</span><br><span class="line">  &quot;shotrange&quot;: [300,180,780,225],</span><br><span class="line">  &quot;scanrange&quot;: [300,537,780,795],</span><br><span class="line">  &quot;y_dist&quot;: 15,</span><br><span class="line">  &quot;botton_dist&quot;: 55</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
-<h2 id="第三步，启动程序"><a href="#第三步，启动程序" class="headerlink" title="第三步，启动程序"></a>第三步，启动程序</h2><p>你可以用cmd运行，也可以用vscode等ide运行文件</p>
+<h2 id="第三步：启动程序"><a href="#第三步：启动程序" class="headerlink" title="第三步：启动程序"></a>第三步：启动程序</h2><p>你可以用cmd运行，也可以用vscode等ide运行文件</p>
 <figure class="highlight cmd"><table><tr><td class="code"><pre><span class="line">$ python 看词选义v1.<span class="number">1</span>.py</span><br></pre></td></tr></table></figure>
 <p>或者</p>
 <figure class="highlight cmd"><table><tr><td class="code"><pre><span class="line">$ python 看义选词v1.<span class="number">0</span>.py</span><br></pre></td></tr></table></figure>
@@ -528,14 +547,25 @@
     <title>西柚朗读者（西柚英语辅助）</title>
     <url>/2023/08/23/xiyouspeaker/</url>
     <content><![CDATA[<p>** 此文章同步保存在以下网站 **<br><a href="https://yhsome.github.io/2023/08/23/xiyouspeaker">森的神秘空间</a><br><a href="https://github.com/YHSome/xiyouspeaker/">github</a></p>
-<h1 id="功能简介"><a href="#功能简介" class="headerlink" title="功能简介"></a>功能简介</h1><p>该脚本可以帮助你完成 <a href="https://student.xiyouyingyu.com/">西柚英语</a> 中烦人的单词朗读。</p>
+<h1 id="功能简介"><a href="#功能简介" class="headerlink" title="功能简介"></a>功能简介</h1><p>该脚本可以帮助你完成 <a href="https://student.xiyouyingyu.com/">西柚英语</a> 中烦人的单词朗读。<br><a href="https://github.com/YHSome/xiyouspeaker/">github项目地址&#x2F;下载地址</a></p>
 <span id="more"></span>
-<h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><p><a href="https://github.com/YHSome/xiyouspeaker/raw/main/example.mp4">点击此处打开演示视频</a></p>
-<p><video src="example.mp4" position= "absolute" width="100%" height="100%" controls="controls"></video></p>
+<h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><p>下面是演示视频<br><video width="640" height="480" controls><br>  <source src="https://github.com/YHSome/xiyouspeaker/raw/main/example.mp4" type="video/mp4"><br>  Your browser does not support the video tag.<br></video></p>
 <h2 id="第一步：安装python以及相应库"><a href="#第一步：安装python以及相应库" class="headerlink" title="第一步：安装python以及相应库"></a>第一步：安装python以及相应库</h2><p>你需要安装的python库有</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sounddevice</span><br><span class="line">soundfile</span><br><span class="line">pyautogui</span><br></pre></td></tr></table></figure>
-<h2 id="第二部，完成相应设置"><a href="#第二部，完成相应设置" class="headerlink" title="第二部，完成相应设置"></a>第二部，完成相应设置</h2><h3 id="设置默认录制设备（十分重要！）"><a href="#设置默认录制设备（十分重要！）" class="headerlink" title="设置默认录制设备（十分重要！）"></a>设置默认录制设备（十分重要！）</h3><p><strong>使用前请将系统默认录制设备改成“立体声混音”，否则无法录音</strong></p>
-<h3 id="打开-config-json-，填写相应配置。"><a href="#打开-config-json-，填写相应配置。" class="headerlink" title="打开 ./config.json ，填写相应配置。"></a>打开 <code>./config.json</code> ，填写相应配置。</h3><p>以下是配置文件的相关释义<br><strong>提示：</strong>你可以使用 <code>./显示鼠标坐标.py</code> 快速定位光标所处的像素的坐标</p>
+
+<blockquote>
+<p>要安装sounddevice、soundfile和pyautogui这三个Python库，可以按照以下步骤进行：</p>
+<ol>
+<li>安装Python：<br>首先，确保你的计算机上已经安装了Python。你可以从Python官方网站下载并安装最新版本的Python。</li>
+<li>安装pip：<br>pip是Python的包管理工具，用于安装和管理Python库。如果你还没有安装pip，可以通过以下命令在命令提示符或终端中安装：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt;python -m ensurepip --upgrade</span><br></pre></td></tr></table></figure></li>
+<li>安装sounddevice库：<br>在命令提示符或终端中运行以下命令来安装sounddevice库：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt;pip install sounddevice</span><br></pre></td></tr></table></figure></li>
+<li>安装soundfile库：<br>在命令提示符或终端中运行以下命令来安装soundfile库：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt;pip install soundfile</span><br></pre></td></tr></table></figure></li>
+<li>安装pyautogui库：<br>在命令提示符或终端中运行以下命令来安装pyautogui库：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt;pip install pyautogui</span><br></pre></td></tr></table></figure>
+这样，你就可以使用这些库来运行该程序了。</li>
+</ol>
+</blockquote>
+<h2 id="第二步：完成相应设置"><a href="#第二步：完成相应设置" class="headerlink" title="第二步：完成相应设置"></a>第二步：完成相应设置</h2><h3 id="设置默认录制设备（十分重要！）"><a href="#设置默认录制设备（十分重要！）" class="headerlink" title="设置默认录制设备（十分重要！）"></a>设置默认录制设备（十分重要！）</h3><p><strong>使用前请将系统默认录制设备改成“立体声混音”，否则无法录音</strong></p>
+<h3 id="打开-config-json-，填写相应配置。"><a href="#打开-config-json-，填写相应配置。" class="headerlink" title="打开 ./config.json ，填写相应配置。"></a>打开 <code>./config.json</code> ，填写相应配置。</h3><p>以下是配置文件的相关释义<br><strong>提示：</strong>你可以使用 <code>./快速配置.py</code> 快速完成配置</p>
 <blockquote>
 <p>“screensize”: 屏幕分辨率【x,y】</p>
 </blockquote>
@@ -551,7 +581,7 @@
 <p>这个是这个是1600x900分辨率下，谷歌浏览器（左）半屏打开向右拉到底的设置示例</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">  &quot;screensize&quot;: [1600,900],</span><br><span class="line">  &quot;nextpos&quot;: [1025,820],</span><br><span class="line">  &quot;input_icon&quot;: [340,800],</span><br><span class="line">  &quot;example_icon&quot;: [333,250]</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
-<h2 id="第三步，启动程序"><a href="#第三步，启动程序" class="headerlink" title="第三步，启动程序"></a>第三步，启动程序</h2><p>你可以用cmd运行，也可以用vscode等ide运行文件</p>
+<h2 id="第三步：启动程序"><a href="#第三步：启动程序" class="headerlink" title="第三步：启动程序"></a>第三步：启动程序</h2><p>你可以用cmd运行，也可以用vscode等ide运行文件</p>
 <figure class="highlight cmd"><table><tr><td class="code"><pre><span class="line">$ python 朗读练习v1.<span class="number">0</span>.py</span><br></pre></td></tr></table></figure>
 
 <h1 id="未来的展望"><a href="#未来的展望" class="headerlink" title="未来的展望"></a>未来的展望</h1><p>目前只做了几个功能，会考虑以后更多功能的开发</p>
@@ -988,6 +1018,18 @@
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>这个文心一言光是在申请这一栏就拦住我了。捏麻申请给我拖了大半年才通过，在这期间我都不知道换了多少个chatgpt的镜像网站了。</p>
 <span id="more"></span>
 <h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><p>其实网上说的文心一言有多烂我是不太认可的，现在的文心一言在中文的问答方面以及比较正常了。chatgpt的语料库是来自众多语言的，而以英语为主，文心一言则是以中文为主的语言模型。并且文心一言还是不需要翻墙的，相比于openai和长城的各种封锁，文心一言已经是相当方便的了。<br>只不过，这个文心一言确实会有一些不足，这玩意在国内难免会受到监管。在我问它关于‘日本核污水’的话题时，它会报错而让我重新开个新话题；可是我仅仅问‘核污水’时，它却会回答，甚至会虚空索敌到日本。所以平时把它当成搜索引擎或者文案生成器用用也不是不行，但是一些乱七八糟的‘敏感话题’，问它也没用。</p>
+]]></content>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>随笔-台风？停课！</title>
+    <url>/2023/09/01/%E9%9A%8F%E7%AC%94-%E5%8F%B0%E9%A3%8E%EF%BC%9F%E5%81%9C%E8%AF%BE%EF%BC%81/</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>按照惯例先写个开头，2023年8月31日由于台风登陆粤东，众多学校停课至九月四日开学。</p>
+<span id="more"></span>
+<h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><p>正文其实没啥好说的，只能感叹一下学校拖延的习惯太夸张了。<br>通知明明是五点四十多分下发的，结果学校拖到六点五十，学生都回学校上交手机了才通知。<br>结果就是上了一个小时学又把学生赶回家了。<br>其实这对于我来说无所谓，但是就是觉得这种做法不妥。<br>之前疫情时也是一样，拖到学校对面小区都有阳性了依然不放学生回家，直到上级下通知才愿意放人。</p>
+<p>补充一点，截止至2023年9月1日凌晨，象贤不让学生回家。这下不好评了，看来大家一样烂。</p>
 ]]></content>
       <tags>
         <tag>随笔</tag>

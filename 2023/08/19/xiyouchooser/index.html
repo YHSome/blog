@@ -84,7 +84,7 @@
         <span class="post-meta-item-icon">
             <i class="ri-quill-pen-line"></i>
             <span class="post-meta-item-text"> 字数统计:</span>
-            <span class="post-count">694</span>
+            <span class="post-count">1k</span>
         </span>
     </span>
 
@@ -93,7 +93,7 @@
         <span class="post-meta-item-icon">
             <i class="ri-book-open-line"></i>
             <span class="post-meta-item-text"> 阅读时长≈</span>
-            <span class="post-count">2 分钟</span>
+            <span class="post-count">3 分钟</span>
         </span>
     </span>
 </div>
@@ -109,12 +109,31 @@
     <div class="article-entry" itemprop="articleBody">
        
   <p>** 此文章同步保存在以下网站 **<br><a target="_blank" rel="noopener" href="https://yhsome.github.io/2023/08/19/xiyouchooser">森的神秘空间</a><br><a target="_blank" rel="noopener" href="https://github.com/YHSome/xiyouchooser/">github</a></p>
-<h1 id="功能简介"><a href="#功能简介" class="headerlink" title="功能简介"></a>功能简介</h1><p>该脚本可以帮助你完成 <a target="_blank" rel="noopener" href="https://student.xiyouyingyu.com/">西柚英语</a> 中烦人的看词选义和看义选词。<br><a target="_blank" rel="noopener" href="https://github.com/YHSome/xiyouhelper/">github项目地址&#x2F;下载地址</a></p>
+<h1 id="功能简介"><a href="#功能简介" class="headerlink" title="功能简介"></a>功能简介</h1><p>该脚本可以帮助你完成 <a target="_blank" rel="noopener" href="https://student.xiyouyingyu.com/">西柚英语</a> 中烦人的看词选义和看义选词。<br><a target="_blank" rel="noopener" href="https://github.com/YHSome/xiyouchooser/">github项目地址&#x2F;下载地址</a></p>
 <span id="more"></span>
-<h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><p><a target="_blank" rel="noopener" href="https://github.com/YHSome/xiyouchooser/raw/main/example.mp4">点击此处打开演示视频</a></p>
+<h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><p>下面是演示视频<br><video width="640" height="480" controls><br>  <source src="https://github.com/YHSome/xiyouchooser/blob/main/example.mp4" type="video/mp4"><br>  Your browser does not support the video tag.<br></video></p>
 <h2 id="第一步：安装python以及相应库"><a href="#第一步：安装python以及相应库" class="headerlink" title="第一步：安装python以及相应库"></a>第一步：安装python以及相应库</h2><p>你需要安装的python库有</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">pytesseract</span><br><span class="line">transformers</span><br><span class="line">pillow</span><br><span class="line">pyautogui</span><br></pre></td></tr></table></figure>
-<h2 id="第二部，完成相应配置"><a href="#第二部，完成相应配置" class="headerlink" title="第二部，完成相应配置"></a>第二部，完成相应配置</h2><p>打开 <code>./config.json</code> ，填写相应配置。以下是配置文件的相关释义<br><strong>提示：</strong>你可以使用 <code>./显示鼠标坐标.py</code> 快速定位光标所处的像素的坐标</p>
+<blockquote>
+<p>要安装pytesseract、transformers、pillow和pyautogui这些Python库，可以按照以下步骤进行：</p>
+<ol>
+<li>首先，确保你的计算机上已经安装了Python。你可以从Python官方网站下载并安装最新版本的Python。</li>
+<li>安装pip：pip是Python的包管理工具，用于安装和管理Python库。如果你还没有安装pip，可以通过以下命令在命令提示符或终端中安装：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&gt;python -m ensurepip --upgrade</span><br></pre></td></tr></table></figure></li>
+<li>安装pytesseract：</li>
+</ol>
+<ul>
+<li>如果你使用的是Windows操作系统，可以在命令提示符或终端中使用以下命令安装pytesseract：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`pip install pytesseract`</span><br></pre></td></tr></table></figure></li>
+<li>如果你使用的是Linux操作系统，可以在命令提示符或终端中使用以下命令安装pytesseract：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`pip install pillow pytesseract`</span><br></pre></td></tr></table></figure></li>
+<li>如果你使用的是MacOS，可以在命令提示符或终端中使用以下命令安装pytesseract：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`pip install pillow pytesseract`</span><br></pre></td></tr></table></figure></li>
+</ul>
+<ol start="4">
+<li>安装transformers：在命令提示符或终端中使用以下命令安装transformers：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&gt;pip install transformers</span><br></pre></td></tr></table></figure></li>
+<li>安装pillow：在命令提示符或终端中使用以下命令安装pillow：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&gt;pip install pillow</span><br></pre></td></tr></table></figure></li>
+<li>安装pyautogui：在命令提示符或终端中使用以下命令安装pyautogui：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&gt;pip install pyautogui</span><br></pre></td></tr></table></figure>
+这些步骤应该可以帮助你安装所需的Python库。</li>
+</ol>
+</blockquote>
+<h2 id="第二步：完成相应配置"><a href="#第二步：完成相应配置" class="headerlink" title="第二步：完成相应配置"></a>第二步：完成相应配置</h2><p>打开 <code>./config.json</code> ，填写相应配置。以下是配置文件的相关释义<br><strong>提示：</strong>你可以使用 <code>./快速配置.py</code> 快速完成配置</p>
 <blockquote>
 <p>“screensize”: 屏幕分辨率【x,y】</p>
 </blockquote>
@@ -141,7 +160,7 @@
 <p>这个是这个是1600x900分辨率下，谷歌浏览器（左）半屏打开向右拉到底的设置示例</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">&#123;</span><br><span class="line">  &quot;screensize&quot;: [1600,900],</span><br><span class="line">  &quot;randompos&quot;: [350,565],</span><br><span class="line">  &quot;nextpos&quot;: [1025,825],</span><br><span class="line">  &quot;shotrange&quot;: [300,180,780,225],</span><br><span class="line">  &quot;scanrange&quot;: [300,537,780,795],</span><br><span class="line">  &quot;y_dist&quot;: 15,</span><br><span class="line">  &quot;botton_dist&quot;: 55</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
-<h2 id="第三步，启动程序"><a href="#第三步，启动程序" class="headerlink" title="第三步，启动程序"></a>第三步，启动程序</h2><p>你可以用cmd运行，也可以用vscode等ide运行文件</p>
+<h2 id="第三步：启动程序"><a href="#第三步：启动程序" class="headerlink" title="第三步：启动程序"></a>第三步：启动程序</h2><p>你可以用cmd运行，也可以用vscode等ide运行文件</p>
 <figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ python 看词选义v1.<span class="number">1</span>.py</span><br></pre></td></tr></table></figure>
 <p>或者</p>
 <figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ python 看义选词v1.<span class="number">0</span>.py</span><br></pre></td></tr></table></figure>
