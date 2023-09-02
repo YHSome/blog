@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-08-31T16:49:17.726Z</updated>
+  <updated>2023-09-01T17:53:34.832Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>弹球挑战</title>
+    <link href="http://example.com/2023/09/02/PinballChallenge/"/>
+    <id>http://example.com/2023/09/02/PinballChallenge/</id>
+    <published>2023-09-01T16:58:33.000Z</published>
+    <updated>2023-09-01T17:53:34.832Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;弹球挑战&quot;&gt;&lt;a href=&quot;#弹球挑战&quot; class=&quot;headerlink&quot; title=&quot;弹球挑战&quot;&gt;&lt;/a&gt;弹球挑战&lt;/h1&gt;&lt;p&gt;这里是弹球挑战，只需30得分即挑战成功！&lt;/p&gt;
+&lt;p&gt;然而，难度将会越来越大。&lt;/p&gt;
+&lt;p&gt;祝君好运！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/../image/2023-9-02/PineballChallenge3.png&quot; alt=&quot;logo&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;挑战成功有奖励！&quot;&gt;&lt;a href=&quot;#挑战成功有奖励！&quot; class=&quot;headerlink&quot; title=&quot;挑战成功有奖励！&quot;&gt;&lt;/a&gt;挑战成功有奖励！&lt;/h1&gt;&lt;p&gt;只要你使用Windows系统在挑战中得到了30分，并且给予我全程（从打开网页开始算起）的挑战录像即为挑战成功，截图发给我，我会给予第一位挑战成功并符合要求的玩家10元红包奖励！&lt;/p&gt;
+&lt;h3 id=&quot;挑战链接&quot;&gt;&lt;a href=&quot;#挑战链接&quot; class=&quot;headerlink&quot; title=&quot;挑战链接&quot;&gt;&lt;/a&gt;挑战链接&lt;/h3&gt;</summary>
+    
+    
+    
+    
+    <category term="我的项目" scheme="http://example.com/tags/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>随笔-台风？停课！</title>
@@ -55,10 +77,11 @@
     <link href="http://example.com/2023/08/28/pixelqx/"/>
     <id>http://example.com/2023/08/28/pixelqx/</id>
     <published>2023-08-28T09:24:59.000Z</published>
-    <updated>2023-08-29T10:24:58.869Z</updated>
+    <updated>2023-09-01T17:19:59.783Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;前段时间和朋友吹水时，偶尔提到了桥兴中学的事儿，突然灵光一闪：万一我们真的能在我的世界里面还原桥兴中学呢。心动不如行动，于是就有了这个计划。并且，&lt;strong&gt;我为此还开设了一个服务器，大家也可以随时进入参观玩耍。&lt;/strong&gt;&lt;br&gt;&lt;img src=&quot;/../image/2023-6-06/1.jpg&quot; alt=&quot;2023年6月6日早上路拍桥兴&quot;&gt;&lt;br&gt;实拍镇帖。&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;前段时间和朋友吹水时，偶尔提到了桥兴中学的事儿，突然灵光一闪：万一我们真的能在我的世界里面还原桥兴中学呢？&lt;/p&gt;
+&lt;p&gt;心动不如行动，于是就有了这个计划。并且，&lt;strong&gt;我为此还开设了一个服务器，大家也可以随时进入参观玩耍。&lt;/strong&gt;&lt;br&gt;&lt;img src=&quot;/../image/2023-6-06/1.jpg&quot; alt=&quot;2023年6月6日早上路拍桥兴&quot;&gt;&lt;/p&gt;</summary>
     
     
     
@@ -72,11 +95,14 @@
     <link href="http://example.com/2023/08/23/xiyouspeaker/"/>
     <id>http://example.com/2023/08/23/xiyouspeaker/</id>
     <published>2023-08-22T17:07:13.000Z</published>
-    <updated>2023-08-31T16:33:33.747Z</updated>
+    <updated>2023-09-01T17:19:22.585Z</updated>
     
     
-    <summary type="html">&lt;p&gt;** 此文章同步保存在以下网站 **&lt;br&gt;&lt;a href=&quot;https://yhsome.github.io/2023/08/23/xiyouspeaker&quot;&gt;森的神秘空间&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://github.com/YHSome/xiyouspeaker/&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;功能简介&quot;&gt;&lt;a href=&quot;#功能简介&quot; class=&quot;headerlink&quot; title=&quot;功能简介&quot;&gt;&lt;/a&gt;功能简介&lt;/h1&gt;&lt;p&gt;该脚本可以帮助你完成 &lt;a href=&quot;https://student.xiyouyingyu.com/&quot;&gt;西柚英语&lt;/a&gt; 中烦人的单词朗读。&lt;br&gt;&lt;a href=&quot;https://github.com/YHSome/xiyouspeaker/&quot;&gt;github项目地址&amp;#x2F;下载地址&lt;/a&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;此文章同步保存在以下网站&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://yhsome.github.io/2023/08/23/xiyouspeaker&quot;&gt;森的神秘空间&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/YHSome/xiyouspeaker/&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;功能简介&quot;&gt;&lt;a href=&quot;#功能简介&quot; class=&quot;headerlink&quot; title=&quot;功能简介&quot;&gt;&lt;/a&gt;功能简介&lt;/h1&gt;&lt;p&gt;该脚本可以帮助你完成 &lt;a href=&quot;https://student.xiyouyingyu.com/&quot;&gt;西柚英语&lt;/a&gt; 中烦人的单词朗读。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/YHSome/xiyouspeaker/&quot;&gt;github项目地址&amp;#x2F;下载地址&lt;/a&gt;&lt;/p&gt;</summary>
     
     
     
@@ -90,10 +116,12 @@
     <link href="http://example.com/2023/08/19/xiyouchooser/"/>
     <id>http://example.com/2023/08/19/xiyouchooser/</id>
     <published>2023-08-19T15:58:27.000Z</published>
-    <updated>2023-08-31T16:33:03.637Z</updated>
+    <updated>2023-09-01T17:20:53.006Z</updated>
     
     
-    <summary type="html">&lt;p&gt;** 此文章同步保存在以下网站 **&lt;br&gt;&lt;a href=&quot;https://yhsome.github.io/2023/08/19/xiyouchooser&quot;&gt;森的神秘空间&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://github.com/YHSome/xiyouchooser/&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;strong&gt;此文章同步保存在以下网站&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://yhsome.github.io/2023/08/19/xiyouchooser&quot;&gt;森的神秘空间&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/YHSome/xiyouchooser/&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;功能简介&quot;&gt;&lt;a href=&quot;#功能简介&quot; class=&quot;headerlink&quot; title=&quot;功能简介&quot;&gt;&lt;/a&gt;功能简介&lt;/h1&gt;&lt;p&gt;该脚本可以帮助你完成 &lt;a href=&quot;https://student.xiyouyingyu.com/&quot;&gt;西柚英语&lt;/a&gt; 中烦人的看词选义和看义选词。&lt;br&gt;&lt;a href=&quot;https://github.com/YHSome/xiyouchooser/&quot;&gt;github项目地址&amp;#x2F;下载地址&lt;/a&gt;&lt;/p&gt;</summary>
     
     
@@ -363,23 +391,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>综合实践课结题报告</title>
-    <link href="http://example.com/2023/06/03/FinalReport/"/>
-    <id>http://example.com/2023/06/03/FinalReport/</id>
-    <published>2023-06-02T19:06:39.000Z</published>
-    <updated>2023-08-08T09:30:05.520Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;以下内容仅供展示，docx文件转换为markdown格式可能回出现一些格式问题。因此文中的表格会有些异常&lt;br&gt;&lt;a href=&quot;https://yhsome.github.io/image/2023-6-03/18-4-jietibaogao2305.docx&quot;&gt;点此下载docx文件&lt;/a&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="高一救急" scheme="http://example.com/tags/%E9%AB%98%E4%B8%80%E6%95%91%E6%80%A5/"/>
     
   </entry>
   
