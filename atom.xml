@@ -6,7 +6,7 @@
   <link href="https://yhsome.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://yhsome.github.io/blog/"/>
-  <updated>2023-09-16T10:13:14.943Z</updated>
+  <updated>2023-09-23T10:08:55.950Z</updated>
   <id>https://yhsome.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>实验报告-固体酒精</title>
+    <link href="https://yhsome.github.io/blog/2023/09/23/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A-%E5%9B%BA%E4%BD%93%E9%85%92%E7%B2%BE/"/>
+    <id>https://yhsome.github.io/blog/2023/09/23/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A-%E5%9B%BA%E4%BD%93%E9%85%92%E7%B2%BE/</id>
+    <published>2023-09-23T09:29:11.000Z</published>
+    <updated>2023-09-23T10:08:55.950Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;固体酒精&quot;&gt;&lt;a href=&quot;#固体酒精&quot; class=&quot;headerlink&quot; title=&quot;固体酒精&quot;&gt;&lt;/a&gt;固体酒精&lt;/h1&gt;&lt;p&gt;&lt;em&gt;策划人：欧阳天为、杨浩森 实验地点：化学实验室六     指导老师：梁敏霞&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实验原理：&lt;/strong&gt;固体酒精通常是由水和酒精混合后，通过凝固剂作用形成的一种固态混合物。醋酸钙易溶于水而难溶于酒精，当两种溶液相混合时，醋酸钙在酒精中成为凝胶析出。液体便逐渐从浑浊到稠厚，最后凝聚为一整块，就得到固体酒精。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实验工具：&lt;/strong&gt;烧杯、玻璃棒、药匙（或燃烧匙）、打火机、天平、量筒&lt;br&gt;实验药品：二水醋酸钙[Ca(CH₃COO)₂·2H₂O]、无水乙醇（或浓度较高的酒精）、水&lt;/p&gt;
+&lt;h2 id=&quot;实验步骤：&quot;&gt;&lt;a href=&quot;#实验步骤：&quot; class=&quot;headerlink&quot; title=&quot;实验步骤：&quot;&gt;&lt;/a&gt;实验步骤：&lt;/h2&gt;</summary>
+    
+    
+    
+    
+    <category term="化学社" scheme="https://yhsome.github.io/blog/tags/%E5%8C%96%E5%AD%A6%E7%A4%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>我的第一个html网页实战</title>
@@ -362,7 +382,7 @@
     <link href="https://yhsome.github.io/blog/2023/06/23/coc/"/>
     <id>https://yhsome.github.io/blog/2023/06/23/coc/</id>
     <published>2023-06-23T15:51:49.000Z</published>
-    <updated>2023-09-16T10:13:14.933Z</updated>
+    <updated>2023-09-25T05:40:22.002Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;看到皇室战争国服最近(23年6月)的骚操作，已经对部落冲突的国服感到担忧了。因此，我先放下了国服部落冲突，在国际服开了个新号，&lt;del&gt;以此来回忆我的青春.&lt;/del&gt;&lt;br&gt;&lt;em&gt;ps：国际服的账号注册并不困难，需要的可以在gamestoday下载。&lt;/em&gt;&lt;/p&gt;</summary>
@@ -371,27 +391,6 @@
     
     
     <category term="coc" scheme="https://yhsome.github.io/blog/tags/coc/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>研究性学习相关内容</title>
-    <link href="https://yhsome.github.io/blog/2023/06/22/RsearchLearning/"/>
-    <id>https://yhsome.github.io/blog/2023/06/22/RsearchLearning/</id>
-    <published>2023-06-22T11:18:07.000Z</published>
-    <updated>2023-09-16T10:13:14.953Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;作为组员，您需要完成的内容&quot;&gt;&lt;a href=&quot;#作为组员，您需要完成的内容&quot; class=&quot;headerlink&quot; title=&quot;作为组员，您需要完成的内容&quot;&gt;&lt;/a&gt;作为组员，您需要完成的内容&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;请按照模板的格式进行填写，并在填写完毕后发送给组长。&lt;br&gt;&lt;a href=&quot;http://yhsome.github.io/image/2023-6-22/example.docx&quot;&gt;下载组员模板&lt;/a&gt;&lt;br&gt;此外，如果您想节约时间，亦可以使用&lt;a href=&quot;&quot;&gt;人工智能&lt;/a&gt;以帮助您完成正文&lt;br&gt;您可以使用以下提示词(xxxxx换成你的主题，其余不要动)&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;以以下主题写一篇八百字文章：xxxxx：（此处写你的副标题）&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
-&lt;li&gt;等待组长回传汇总文件，并上传到&lt;a href=&quot;https://gl.gdedu.gov.cn/gdeducms&quot;&gt;综评网&lt;/a&gt;上&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&quot;作为组长，您需要完成的内容&quot;&gt;&lt;a href=&quot;#作为组长，您需要完成的内容&quot; class=&quot;headerlink&quot; title=&quot;作为组长，您需要完成的内容&quot;&gt;&lt;/a&gt;作为组长，您需要完成的内容&lt;/h3&gt;</summary>
-    
-    
-    
-    
-    <category term="高一救急" scheme="https://yhsome.github.io/blog/tags/%E9%AB%98%E4%B8%80%E6%95%91%E6%80%A5/"/>
     
   </entry>
   
